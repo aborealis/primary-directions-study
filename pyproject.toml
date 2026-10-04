@@ -1,0 +1,57 @@
+# Tool configuration for the companion code of the study
+# "A Statistical Test of Primary Directions in Predicting Violent Death".
+# This is not an installable package: the scripts are meant to be run
+# from the repository root.
+
+[tool.ruff]
+line-length = 88
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "B"]
+
+[tool.ruff.lint.per-file-ignores]
+# The executable scripts insert the repository root into sys.path before
+# importing the project packages, so imports follow a statement (E402).
+"stat_analysis/estimate_r.py" = ["E402"]
+"stat_analysis/estimate_p_value.py" = ["E402"]
+"stat_analysis/estimate_power.py" = ["E402"]
+"stat_analysis/generate_stat_data.py" = ["E402"]
+
+[tool.mypy]
+python_version = "3.10"
+# PEP 561 stubs for the proprietary calc package live under stubs/calc/.
+mypy_path = "stubs"
+no_implicit_optional = true
+check_untyped_defs = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+
+[tool.pyright]
+# Resolve the proprietary calc package from the PEP 561 stubs the same way
+# mypy does (mypy_path above); cupy is resolved from the interpreter
+# selected in the editor (the project's pipenv virtual environment).
+stubPath = "stubs"
+# calc exists only as stubs by design — no runtime source ships with the
+# repository — so the "resolved from source" advisory is noise here.
+reportMissingModuleSource = false
+
+[[tool.mypy.overrides]]
+# Fallbacks: the proprietary calc package is only present at runtime in
+# the author's environment (stubs are used for static checking), and
+# cupy does not ship type stubs.
+module = ["calc.*", "cupy.*"]
+ignore_missing_imports = true
+
+[[tool.mypy.overrides]]
+module = [
+    "stat_analysis.*",
+    "direction_analysis.*",
+    "samples.*",
+]
+disallow_untyped_defs = true
+
+[tool.pytest.ini_options]
+# Let the tests import the project packages from the repository root.
+pythonpath = ["."]
+testpaths = ["tests"]

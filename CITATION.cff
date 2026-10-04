@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+title: "A Statistical Test of Primary Directions in Predicting Violent Death: Research Code and Data"
+message: >-
+  If you use this code or data, please cite it as below and give appropriate
+  credit with a reference (link) to this repository.
+type: software
+repository-code: "https://github.com/aborealis/primary-directions-study"
+authors:
+  - family-names: Borealis
+    given-names: Alexey
+    website: "https://alexeyborealis.com/"
+abstract: >-
+  Research code and data for the study "A Statistical Test of Primary
+  Directions in Predicting Violent Death: A Null Result" (Correlation,
+  The Astrological Association Journal of Research in Astrology):
+  the simplified model of death-related primary directions, the
+  statistical data files of the study, the published samples needed to
+  audit the sampling and the model input, and the scripts that reproduce
+  the published Monte Carlo, bootstrap, and power analyses.
+keywords:
+  - primary directions
+  - predictive astrology
+  - violent death
+  - null result
+  - reproducibility
+  - research data
+license: CC-BY-4.0
+identifiers:
+  - type: url
+    value: "https://correlationjournal.com/a-statistical-test-of-primary-directions-in-predicting-violent-death-a-null-result/"
+    description: "Published paper (full text)"
+preferred-citation:
+  type: article
+  title: "A Statistical Test of Primary Directions in Predicting Violent Death: A Null Result"
+  authors:
+    - family-names: Borealis
+      given-names: Aleksei
+  journal: "Correlation - The Astrological Association Journal of Research in Astrology"
+  volume: 38
+  issue: 2
+  pages: "89-102"
+  year: 2026
+  url: "https://correlationjournal.com/a-statistical-test-of-primary-directions-in-predicting-violent-death-a-null-result/"

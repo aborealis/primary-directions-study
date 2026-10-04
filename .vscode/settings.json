@@ -1,0 +1,6 @@
+{
+    // Use the mypy installed in the project environment (pipenv install
+    // --dev) instead of the extension's bundled copy, so that the type
+    // stubs (types-tqdm) resolve exactly as in CI.
+    "mypy-type-checker.importStrategy": "fromEnvironment"
+}

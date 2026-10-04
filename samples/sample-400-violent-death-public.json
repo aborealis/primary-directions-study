@@ -1,0 +1,6802 @@
+[
+  {
+    "name": "Antillón, Ignacia",
+    "death": "1970/12/20",
+    "chartData": {
+      "date": "1930/11/28",
+      "time": "09:00",
+      "tz_hr": -7,
+      "lon": -109.23333333333333,
+      "lat": 29.05
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1970/12/20"
+      }
+    ]
+  },
+  {
+    "name": "Giraudiere, Max",
+    "death": "1995/01/20",
+    "chartData": {
+      "date": "1932/03/08",
+      "time": "22:30",
+      "tz_hr": 0,
+      "lon": 0.7833333333333333,
+      "lat": 49.083333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1995/01/20"
+      }
+    ]
+  },
+  {
+    "name": "de Rosnay, Arnaud",
+    "death": "1984/11/00",
+    "chartData": {
+      "date": "1946/03/09",
+      "time": "05:30",
+      "tz_hr": 1,
+      "lon": 2.3333333333333335,
+      "lat": 48.86666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1984/11/00"
+      }
+    ]
+  },
+  {
+    "name": "Sturtzman, Daniel E.",
+    "death": "1985/12/14",
+    "chartData": {
+      "date": "1976/09/07",
+      "time": "01:50",
+      "tz_hr": -4,
+      "lon": -81.83333333333333,
+      "lat": 40.75
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1985/12/14"
+      }
+    ]
+  },
+  {
+    "name": "Tarin, Christian",
+    "death": "1991/10/15",
+    "chartData": {
+      "date": "1951/04/19",
+      "time": "13:45",
+      "tz_hr": 1,
+      "lon": 4.383333333333334,
+      "lat": 50.833333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1991/10/15"
+      }
+    ]
+  },
+  {
+    "name": "Stayner, Steven",
+    "death": "1989/09/16",
+    "chartData": {
+      "date": "1965/04/18",
+      "time": "02:29",
+      "tz_hr": -8,
+      "lon": -120.48333333333333,
+      "lat": 37.3
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1989/09/16"
+      }
+    ]
+  },
+  {
+    "name": "Morelle, Amelie",
+    "death": "1996/01/26",
+    "chartData": {
+      "date": "1990/07/04",
+      "time": "12:10",
+      "tz_hr": 2,
+      "lon": 2.4833333333333334,
+      "lat": 48.88333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1996/01/26"
+      }
+    ]
+  },
+  {
+    "name": "Rich, Ginger",
+    "death": "1997/01/17",
+    "chartData": {
+      "date": "1945/02/07",
+      "time": "19:57",
+      "tz_hr": -4,
+      "lon": -83.05,
+      "lat": 42.333333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1997/01/17"
+      }
+    ]
+  },
+  {
+    "name": "Schreier, Chael Charles",
+    "death": "1969/11/24",
+    "chartData": {
+      "date": "1946/09/23",
+      "time": "21:40",
+      "tz_hr": -3,
+      "lon": -47.9,
+      "lat": -23.083333333333332
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1969/11/24"
+      }
+    ]
+  },
+  {
+    "name": "Nagami, Ishiro",
+    "death": "1969/09/04",
+    "chartData": {
+      "date": "1941/12/12",
+      "time": "04:00",
+      "tz_hr": -3,
+      "lon": -50.56666666666667,
+      "lat": -22.4
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1969/09/04"
+      }
+    ]
+  },
+  {
+    "name": "de Larcône, Sunsiaré",
+    "death": "1962/09/00",
+    "chartData": {
+      "date": "1935/06/28",
+      "time": "11:00",
+      "tz_hr": 1,
+      "lon": 6.633333333333333,
+      "lat": 48.35
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1962/09/00"
+      }
+    ]
+  },
+  {
+    "name": "Johnson, Brendan",
+    "death": "2017/07/10",
+    "chartData": {
+      "date": "1971/08/19",
+      "time": "10:18",
+      "tz_hr": -4,
+      "lon": -73.21666666666667,
+      "lat": 44.483333333333334
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2017/07/10"
+      }
+    ]
+  },
+  {
+    "name": "Mitri, Tiberio",
+    "death": "2001/02/12",
+    "chartData": {
+      "date": "1926/07/12",
+      "time": "23:45",
+      "tz_hr": 1,
+      "lon": 13.766666666666667,
+      "lat": 45.666666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2001/02/12"
+      }
+    ]
+  },
+  {
+    "name": "Boiteux, Jean",
+    "death": "2010/04/11",
+    "chartData": {
+      "date": "1933/06/20",
+      "time": "05:00",
+      "tz_hr": 1,
+      "lon": 5.4,
+      "lat": 43.3
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2010/04/11"
+      }
+    ]
+  },
+  {
+    "name": "Arnaud, Gabriel",
+    "death": "1995/04/20",
+    "chartData": {
+      "date": "1920/06/12",
+      "time": "18:00",
+      "tz_hr": 1,
+      "lon": 1.95,
+      "lat": 44.06666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1995/04/20"
+      }
+    ]
+  },
+  {
+    "name": "Hornec, James",
+    "death": "2005/12/24",
+    "chartData": {
+      "date": "1981/10/17",
+      "time": "08:15",
+      "tz_hr": 1,
+      "lon": 2.4333333333333336,
+      "lat": 48.86666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2005/12/24"
+      }
+    ]
+  },
+  {
+    "name": "Procopio, Eric Jay",
+    "death": "1992/03/20",
+    "chartData": {
+      "date": "1991/10/19",
+      "time": "00:58",
+      "tz_hr": -4,
+      "lon": -71.13333333333334,
+      "lat": 42.45
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1992/03/20"
+      }
+    ]
+  },
+  {
+    "name": "Jiménez, Tacho",
+    "death": "2010/11/29",
+    "chartData": {
+      "date": "1976/03/21",
+      "time": "01:00",
+      "tz_hr": -6,
+      "lon": -99.71666666666667,
+      "lat": 23.0
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2010/11/29"
+      }
+    ]
+  },
+  {
+    "name": "Houston, Whitney",
+    "death": "2012/02/11",
+    "chartData": {
+      "date": "1963/08/09",
+      "time": "20:55",
+      "tz_hr": -4,
+      "lon": -74.16666666666667,
+      "lat": 40.733333333333334
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2012/02/11"
+      }
+    ]
+  },
+  {
+    "name": "Arthaud, Florence",
+    "death": "2015/03/09",
+    "chartData": {
+      "date": "1957/10/28",
+      "time": "19:35",
+      "tz_hr": 1,
+      "lon": 2.25,
+      "lat": 48.833333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2015/03/09"
+      }
+    ]
+  },
+  {
+    "name": "Kubitschek, Juscelino",
+    "death": "1976/08/22",
+    "chartData": {
+      "date": "1902/09/12",
+      "time": "14:00",
+      "tz_hr": -2.9066666666666667,
+      "lon": -43.6,
+      "lat": -18.233333333333334
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1976/08/22"
+      }
+    ]
+  },
+  {
+    "name": "Valentin, Léo",
+    "death": "1956/05/21",
+    "chartData": {
+      "date": "1919/03/22",
+      "time": "04:00",
+      "tz_hr": 1,
+      "lon": 6.45,
+      "lat": 48.18333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1956/05/21"
+      }
+    ]
+  },
+  {
+    "name": "Colby, Barbara",
+    "death": "1975/07/24",
+    "chartData": {
+      "date": "1939/07/02",
+      "time": "07:43",
+      "tz_hr": -4,
+      "lon": -73.9,
+      "lat": 40.85
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1975/07/24"
+      }
+    ]
+  },
+  {
+    "name": "Murphy, Patrick",
+    "death": "2004/01/09",
+    "chartData": {
+      "date": "1986/12/05",
+      "time": "09:31",
+      "tz_hr": -5,
+      "lon": -70.9,
+      "lat": 42.516666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2004/01/09"
+      }
+    ]
+  },
+  {
+    "name": "Bertie, Diego",
+    "death": "2022/08/05",
+    "chartData": {
+      "date": "1967/11/02",
+      "time": "17:40",
+      "tz_hr": -5,
+      "lon": -77.03333333333333,
+      "lat": -12.116666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2022/08/05"
+      }
+    ]
+  },
+  {
+    "name": "Montes, Segundo",
+    "death": "1989/11/16",
+    "chartData": {
+      "date": "1933/05/15",
+      "time": "10:30",
+      "tz_hr": 0,
+      "lon": -4.716666666666667,
+      "lat": 41.65
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1989/11/16"
+      }
+    ]
+  },
+  {
+    "name": "Dhaenens, Rudy",
+    "death": "1998/04/06",
+    "chartData": {
+      "date": "1961/04/10",
+      "time": "06:00",
+      "tz_hr": 1,
+      "lon": 3.5166666666666666,
+      "lat": 50.983333333333334
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1998/04/06"
+      }
+    ]
+  },
+  {
+    "name": "Ducuing, Jean",
+    "death": "1999/11/01",
+    "chartData": {
+      "date": "1934/01/11",
+      "time": "04:30",
+      "tz_hr": 0,
+      "lon": -0.7,
+      "lat": 44.833333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1999/11/01"
+      }
+    ]
+  },
+  {
+    "name": "Gagliano, Jeff",
+    "death": "1994/10/31",
+    "chartData": {
+      "date": "1963/12/12",
+      "time": "02:04",
+      "tz_hr": -6,
+      "lon": -88.0,
+      "lat": 43.016666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1994/10/31"
+      }
+    ]
+  },
+  {
+    "name": "Steinle, Kate",
+    "death": "2015/07/01",
+    "chartData": {
+      "date": "1982/12/13",
+      "time": "00:55",
+      "tz_hr": -8,
+      "lon": -121.98333333333333,
+      "lat": 37.55
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2015/07/01"
+      }
+    ]
+  },
+  {
+    "name": "McAuliffe, Christa",
+    "death": "1986/01/28",
+    "chartData": {
+      "date": "1948/09/02",
+      "time": "22:13",
+      "tz_hr": -4,
+      "lon": -71.06666666666666,
+      "lat": 42.36666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1986/01/28"
+      }
+    ]
+  },
+  {
+    "name": "Brunolt, Matthew",
+    "death": "1994/08/10",
+    "chartData": {
+      "date": "1988/07/12",
+      "time": "23:25",
+      "tz_hr": -7,
+      "lon": -117.91666666666667,
+      "lat": 33.833333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1994/08/10"
+      }
+    ]
+  },
+  {
+    "name": "Kucher, Deborah",
+    "death": "1999/07/29",
+    "chartData": {
+      "date": "1962/08/01",
+      "time": "20:23",
+      "tz_hr": -4,
+      "lon": -71.8,
+      "lat": 42.266666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1999/07/29"
+      }
+    ]
+  },
+  {
+    "name": "Pomonti, Willy",
+    "death": "1996/04/16",
+    "chartData": {
+      "date": "1926/11/14",
+      "time": "10:20",
+      "tz_hr": 0,
+      "lon": 2.3333333333333335,
+      "lat": 48.86666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1996/04/16"
+      }
+    ]
+  },
+  {
+    "name": "Sabine, Thierry",
+    "death": "1986/01/14",
+    "chartData": {
+      "date": "1949/06/13",
+      "time": "23:30",
+      "tz_hr": 1,
+      "lon": 2.2666666666666666,
+      "lat": 48.88333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1986/01/14"
+      }
+    ]
+  },
+  {
+    "name": "Dominici, Christophe",
+    "death": "2020/11/24",
+    "chartData": {
+      "date": "1972/05/20",
+      "time": "14:30",
+      "tz_hr": 1,
+      "lon": 5.933333333333334,
+      "lat": 43.11666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2020/11/24"
+      }
+    ]
+  },
+  {
+    "name": "Beriáin, David",
+    "death": "2021/04/26",
+    "chartData": {
+      "date": "1977/08/12",
+      "time": "05:55",
+      "tz_hr": 2,
+      "lon": -1.6333333333333333,
+      "lat": 42.81666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2021/04/26"
+      }
+    ]
+  },
+  {
+    "name": "Heitz, Michael",
+    "death": "2004/01/09",
+    "chartData": {
+      "date": "1987/01/14",
+      "time": "20:40",
+      "tz_hr": -5,
+      "lon": -70.93333333333334,
+      "lat": 42.583333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2004/01/09"
+      }
+    ]
+  },
+  {
+    "name": "Mohler, Orville",
+    "death": "1949/11/26",
+    "chartData": {
+      "date": "1909/05/29",
+      "time": "06:00",
+      "tz_hr": -8,
+      "lon": -118.25,
+      "lat": 34.05
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1949/11/26"
+      }
+    ]
+  },
+  {
+    "name": "Allen, Richard W.",
+    "death": "1988/02/17",
+    "chartData": {
+      "date": "1934/04/07",
+      "time": "09:10",
+      "tz_hr": -6,
+      "lon": -86.88333333333334,
+      "lat": 40.416666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1988/02/17"
+      }
+    ]
+  },
+  {
+    "name": "Walker, Robert",
+    "death": "1951/08/28",
+    "chartData": {
+      "date": "1918/10/13",
+      "time": "22:15",
+      "tz_hr": -6,
+      "lon": -111.88333333333334,
+      "lat": 40.766666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1951/08/28"
+      }
+    ]
+  },
+  {
+    "name": "Grant, Brendan",
+    "death": "2001/06/27",
+    "chartData": {
+      "date": "1982/08/25",
+      "time": "16:21",
+      "tz_hr": -4,
+      "lon": -71.06666666666666,
+      "lat": 42.36666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2001/06/27"
+      }
+    ]
+  },
+  {
+    "name": "Dewar, Donald Campbell",
+    "death": "2000/10/11",
+    "chartData": {
+      "date": "1937/08/21",
+      "time": "19:18",
+      "tz_hr": 1,
+      "lon": -4.266666666666667,
+      "lat": 55.88333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2000/10/11"
+      }
+    ]
+  },
+  {
+    "name": "Shurr, Russell",
+    "death": "1993/12/10",
+    "chartData": {
+      "date": "1958/03/24",
+      "time": "03:30",
+      "tz_hr": -6,
+      "lon": -87.9,
+      "lat": 43.03333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1993/12/10"
+      }
+    ]
+  },
+  {
+    "name": "Kameese, Richard",
+    "death": "1991/03/14",
+    "chartData": {
+      "date": "1969/12/05",
+      "time": "22:35",
+      "tz_hr": -5,
+      "lon": -71.01666666666667,
+      "lat": 42.083333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1991/03/14"
+      }
+    ]
+  },
+  {
+    "name": "d'Anfreville de Jurquet de La Salle, Charles",
+    "death": "1969/08/08",
+    "chartData": {
+      "date": "1914/08/21",
+      "time": "22:00",
+      "tz_hr": 0,
+      "lon": -1.1166666666666667,
+      "lat": 45.516666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1969/08/08"
+      }
+    ]
+  },
+  {
+    "name": "Delle Cave, Silvestro",
+    "death": "1997/11/08",
+    "chartData": {
+      "date": "1988/07/21",
+      "time": "11:00",
+      "tz_hr": 2,
+      "lon": 11.133333333333333,
+      "lat": 46.5
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1997/11/08"
+      }
+    ]
+  },
+  {
+    "name": "Tibbs, Tommy",
+    "death": "1975/05/15",
+    "chartData": {
+      "date": "1934/07/23",
+      "time": "08:00",
+      "tz_hr": -5,
+      "lon": -82.6,
+      "lat": 39.71666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1975/05/15"
+      }
+    ]
+  },
+  {
+    "name": "Fossett, Steve",
+    "death": "2008/02/15",
+    "chartData": {
+      "date": "1944/04/22",
+      "time": "01:58",
+      "tz_hr": -5,
+      "lon": -88.81666666666666,
+      "lat": 35.61666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2008/02/15"
+      }
+    ]
+  },
+  {
+    "name": "Salgado Nóbrega, Lígia Maria",
+    "death": "1972/03/29",
+    "chartData": {
+      "date": "1947/07/30",
+      "time": "13:00",
+      "tz_hr": -3,
+      "lon": -35.2,
+      "lat": -5.783333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1972/03/29"
+      }
+    ]
+  },
+  {
+    "name": "Wade, Billy",
+    "death": "1965/01/05",
+    "chartData": {
+      "date": "1930/02/28",
+      "time": "10:30",
+      "tz_hr": -6,
+      "lon": -93.75,
+      "lat": 30.85
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1965/01/05"
+      }
+    ]
+  },
+  {
+    "name": "Perkins, James Alfred",
+    "death": "1998/08/19",
+    "chartData": {
+      "date": "1911/11/11",
+      "time": "18:00",
+      "tz_hr": -5,
+      "lon": -75.16666666666667,
+      "lat": 39.95
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1998/08/19"
+      }
+    ]
+  },
+  {
+    "name": "El Yiyo",
+    "death": "1985/08/30",
+    "chartData": {
+      "date": "1964/04/16",
+      "time": "12:05",
+      "tz_hr": 1,
+      "lon": -0.5666666666666667,
+      "lat": 44.833333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1985/08/30"
+      }
+    ]
+  },
+  {
+    "name": "Wimille, Jean-Pierre",
+    "death": "1949/01/28",
+    "chartData": {
+      "date": "1908/02/26",
+      "time": "01:20",
+      "tz_hr": 0.15555555555555556,
+      "lon": 2.2666666666666666,
+      "lat": 48.85
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1949/01/28"
+      }
+    ]
+  },
+  {
+    "name": "Russo, Marta",
+    "death": "1997/05/09",
+    "chartData": {
+      "date": "1975/04/13",
+      "time": "17:40",
+      "tz_hr": 1,
+      "lon": 12.483333333333333,
+      "lat": 41.9
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1997/05/09"
+      }
+    ]
+  },
+  {
+    "name": "Marin, Agnès",
+    "death": "2011/11/16",
+    "chartData": {
+      "date": "1997/11/26",
+      "time": "09:40",
+      "tz_hr": 1,
+      "lon": 2.3166666666666664,
+      "lat": 48.81666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2011/11/16"
+      }
+    ]
+  },
+  {
+    "name": "Foran, Patrick",
+    "death": "1993/12/10",
+    "chartData": {
+      "date": "1961/12/19",
+      "time": "07:48",
+      "tz_hr": -6,
+      "lon": -87.9,
+      "lat": 43.03333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1993/12/10"
+      }
+    ]
+  },
+  {
+    "name": "Buscaglione, Fred",
+    "death": "1960/02/03",
+    "chartData": {
+      "date": "1921/11/23",
+      "time": "13:00",
+      "tz_hr": 1,
+      "lon": 7.666666666666667,
+      "lat": 45.05
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1960/02/03"
+      }
+    ]
+  },
+  {
+    "name": "Hagerty, Janice",
+    "death": "2000/12/26",
+    "chartData": {
+      "date": "1954/09/05",
+      "time": "17:51",
+      "tz_hr": -4,
+      "lon": -71.06666666666666,
+      "lat": 42.36666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2000/12/26"
+      }
+    ]
+  },
+  {
+    "name": "Shoemaker, Eugene",
+    "death": "1997/07/18",
+    "chartData": {
+      "date": "1928/04/28",
+      "time": "11:56",
+      "tz_hr": -8,
+      "lon": -118.25,
+      "lat": 34.05
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1997/07/18"
+      }
+    ]
+  },
+  {
+    "name": "Vastine, Alexis",
+    "death": "2015/03/09",
+    "chartData": {
+      "date": "1986/11/17",
+      "time": "09:15",
+      "tz_hr": 1,
+      "lon": 0.5166666666666667,
+      "lat": 49.35
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2015/03/09"
+      }
+    ]
+  },
+  {
+    "name": "Kucher, Cassie",
+    "death": "1999/07/29",
+    "chartData": {
+      "date": "1989/10/01",
+      "time": "22:26",
+      "tz_hr": -4,
+      "lon": -71.8,
+      "lat": 42.266666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1999/07/29"
+      }
+    ]
+  },
+  {
+    "name": "Moro, Aldo",
+    "death": "1978/05/09",
+    "chartData": {
+      "date": "1916/09/23",
+      "time": "09:00",
+      "tz_hr": 2,
+      "lon": 18.316666666666666,
+      "lat": 40.11666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1978/05/09"
+      }
+    ]
+  },
+  {
+    "name": "Belmadi, Yasmine",
+    "death": "2009/07/18",
+    "chartData": {
+      "date": "1976/01/26",
+      "time": "13:00",
+      "tz_hr": 1,
+      "lon": 2.3833333333333333,
+      "lat": 48.916666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2009/07/18"
+      }
+    ]
+  },
+  {
+    "name": "Chico Science",
+    "death": "1997/02/02",
+    "chartData": {
+      "date": "1966/03/13",
+      "time": "04:00",
+      "tz_hr": -3,
+      "lon": -36.016666666666666,
+      "lat": -8.466666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1997/02/02"
+      }
+    ]
+  },
+  {
+    "name": "Wilkerson, David",
+    "death": "2011/04/27",
+    "chartData": {
+      "date": "1931/05/19",
+      "time": "21:15",
+      "tz_hr": -5,
+      "lon": -87.5,
+      "lat": 41.583333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2011/04/27"
+      }
+    ]
+  },
+  {
+    "name": "Driscoll, Kerri Lee",
+    "death": "2002/12/02",
+    "chartData": {
+      "date": "1984/11/11",
+      "time": "20:11",
+      "tz_hr": -5,
+      "lon": -71.2,
+      "lat": 42.333333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2002/12/02"
+      }
+    ]
+  },
+  {
+    "name": "Cecilia",
+    "death": "1976/08/02",
+    "chartData": {
+      "date": "1948/10/11",
+      "time": "21:40",
+      "tz_hr": 1,
+      "lon": -3.6833333333333336,
+      "lat": 40.4
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1976/08/02"
+      }
+    ]
+  },
+  {
+    "name": "Correa-McMullen, Tara",
+    "death": "2005/10/21",
+    "chartData": {
+      "date": "1989/05/24",
+      "time": "19:00",
+      "tz_hr": -4,
+      "lon": -72.46666666666667,
+      "lat": 43.06666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2005/10/21"
+      }
+    ]
+  },
+  {
+    "name": "Hopper, Joseph",
+    "death": "2003/07/02",
+    "chartData": {
+      "date": "1983/03/19",
+      "time": "20:52",
+      "tz_hr": -8,
+      "lon": -118.35,
+      "lat": 33.96666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2003/07/02"
+      }
+    ]
+  },
+  {
+    "name": "Alzieu, Delphine",
+    "death": "1996/01/16",
+    "chartData": {
+      "date": "1974/03/23",
+      "time": "18:00",
+      "tz_hr": 1,
+      "lon": 1.4333333333333333,
+      "lat": 43.6
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1996/01/16"
+      }
+    ]
+  },
+  {
+    "name": "Bonnafous, Raymonde",
+    "death": "1992/05/13",
+    "chartData": {
+      "date": "1949/03/13",
+      "time": "23:00",
+      "tz_hr": 1,
+      "lon": 0.6166666666666667,
+      "lat": 43.93333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1992/05/13"
+      }
+    ]
+  },
+  {
+    "name": "Cochran, Eddie",
+    "death": "1960/04/17",
+    "chartData": {
+      "date": "1938/10/03",
+      "time": "04:15",
+      "tz_hr": -6,
+      "lon": -93.36666666666666,
+      "lat": 43.65
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1960/04/17"
+      }
+    ]
+  },
+  {
+    "name": "Bohain, Jennifer",
+    "death": "1992/11/06",
+    "chartData": {
+      "date": "1989/02/22",
+      "time": "12:50",
+      "tz_hr": 1,
+      "lon": 7.25,
+      "lat": 43.7
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1992/11/06"
+      }
+    ]
+  },
+  {
+    "name": "Francis, James",
+    "death": "1981/11/28",
+    "chartData": {
+      "date": "1965/06/25",
+      "time": "15:34",
+      "tz_hr": -4,
+      "lon": -71.08333333333333,
+      "lat": 42.78333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1981/11/28"
+      }
+    ]
+  },
+  {
+    "name": "Griffith, Thomas",
+    "death": "2002/03/16",
+    "chartData": {
+      "date": "1915/12/30",
+      "time": "06:00",
+      "tz_hr": -8,
+      "lon": -122.45,
+      "lat": 47.25
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2002/03/16"
+      }
+    ]
+  },
+  {
+    "name": "Duncan, Charles Jr.",
+    "death": "2022/10/18",
+    "chartData": {
+      "date": "1926/09/09",
+      "time": "23:38",
+      "tz_hr": -6,
+      "lon": -95.36666666666666,
+      "lat": 29.766666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2022/10/18"
+      }
+    ]
+  },
+  {
+    "name": "Robbins, Kathy Jean",
+    "death": "1993/12/05",
+    "chartData": {
+      "date": "1968/08/07",
+      "time": "14:18",
+      "tz_hr": -4,
+      "lon": -70.3,
+      "lat": 41.7
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1993/12/05"
+      }
+    ]
+  },
+  {
+    "name": "Hasell, Kevin Allan",
+    "death": "1996/03/13",
+    "chartData": {
+      "date": "1990/10/23",
+      "time": "12:00",
+      "tz_hr": 1,
+      "lon": -3.95,
+      "lat": 56.11666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1996/03/13"
+      }
+    ]
+  },
+  {
+    "name": "Cáceres, Jorge",
+    "death": "1975/12/03",
+    "chartData": {
+      "date": "1917/04/14",
+      "time": "10:12",
+      "tz_hr": -4.28,
+      "lon": -60.53333333333333,
+      "lat": -31.733333333333334
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1975/12/03"
+      }
+    ]
+  },
+  {
+    "name": "Bishop, Seth",
+    "death": "1986/12/06",
+    "chartData": {
+      "date": "1968/04/09",
+      "time": "16:27",
+      "tz_hr": -5,
+      "lon": -71.06666666666666,
+      "lat": 42.36666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1986/12/06"
+      }
+    ]
+  },
+  {
+    "name": "Defico, Elaine",
+    "death": "1981/07/03",
+    "chartData": {
+      "date": "1950/09/24",
+      "time": "09:14",
+      "tz_hr": -5,
+      "lon": -75.16666666666667,
+      "lat": 39.95
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1981/07/03"
+      }
+    ]
+  },
+  {
+    "name": "Cattaneo, Silvia",
+    "death": "2001/08/01",
+    "chartData": {
+      "date": "1975/07/22",
+      "time": "20:30",
+      "tz_hr": 2,
+      "lon": 9.2,
+      "lat": 45.46666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2001/08/01"
+      }
+    ]
+  },
+  {
+    "name": "Palme, Olof",
+    "death": "1986/02/28",
+    "chartData": {
+      "date": "1927/01/30",
+      "time": "05:15",
+      "tz_hr": 1,
+      "lon": 18.05,
+      "lat": 59.333333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1986/02/28"
+      }
+    ]
+  },
+  {
+    "name": "Tate, Sharon",
+    "death": "1969/08/09",
+    "chartData": {
+      "date": "1943/01/24",
+      "time": "17:47",
+      "tz_hr": -5,
+      "lon": -96.8,
+      "lat": 32.78333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1969/08/09"
+      }
+    ]
+  },
+  {
+    "name": "Paquay, Michaël",
+    "death": "1998/05/09",
+    "chartData": {
+      "date": "1972/02/27",
+      "time": "00:15",
+      "tz_hr": 1,
+      "lon": 5.716666666666667,
+      "lat": 50.0
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1998/05/09"
+      }
+    ]
+  },
+  {
+    "name": "Ferroud, Pierre Octave",
+    "death": "1936/08/17",
+    "chartData": {
+      "date": "1900/01/06",
+      "time": "01:00",
+      "tz_hr": 0.15555555555555556,
+      "lon": 4.75,
+      "lat": 45.983333333333334
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1936/08/17"
+      }
+    ]
+  },
+  {
+    "name": "Kronshage, Erna",
+    "death": "1944/02/20",
+    "chartData": {
+      "date": "1922/12/12",
+      "time": "21:00",
+      "tz_hr": 1,
+      "lon": 8.616666666666667,
+      "lat": 51.983333333333334
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1944/02/20"
+      }
+    ]
+  },
+  {
+    "name": "Bianchi, Jules",
+    "death": "2015/07/17",
+    "chartData": {
+      "date": "1989/08/03",
+      "time": "07:10",
+      "tz_hr": 2,
+      "lon": 7.25,
+      "lat": 43.7
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2015/07/17"
+      }
+    ]
+  },
+  {
+    "name": "Clark, Alex",
+    "death": "1991/02/14",
+    "chartData": {
+      "date": "1916/03/22",
+      "time": "00:30",
+      "tz_hr": -6,
+      "lon": -86.15,
+      "lat": 39.766666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1991/02/14"
+      }
+    ]
+  },
+  {
+    "name": "Portaele, Ingrid",
+    "death": "1991/10/19",
+    "chartData": {
+      "date": "1981/10/17",
+      "time": "08:00",
+      "tz_hr": 1,
+      "lon": 2.8833333333333333,
+      "lat": 42.68333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1991/10/19"
+      }
+    ]
+  },
+  {
+    "name": "Alexei, Czarevitch (1904)",
+    "death": "1918/07/16",
+    "chartData": {
+      "date": "1904/08/12",
+      "time": "13:15",
+      "tz_hr": 2.0166666666666666,
+      "lon": 29.9,
+      "lat": 59.88333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1918/07/16"
+      }
+    ]
+  },
+  {
+    "name": "Jarosz, Beverly Ann",
+    "death": "1964/12/28",
+    "chartData": {
+      "date": "1948/10/01",
+      "time": "08:06",
+      "tz_hr": -5,
+      "lon": -81.7,
+      "lat": 41.5
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1964/12/28"
+      }
+    ]
+  },
+  {
+    "name": "Andruet, Gilles",
+    "death": "1995/08/22",
+    "chartData": {
+      "date": "1958/03/30",
+      "time": "18:05",
+      "tz_hr": 1,
+      "lon": 2.3833333333333333,
+      "lat": 48.85
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1995/08/22"
+      }
+    ]
+  },
+  {
+    "name": "Romand, Anne Marie",
+    "death": "1993/06/09",
+    "chartData": {
+      "date": "1923/12/20",
+      "time": "09:00",
+      "tz_hr": 0,
+      "lon": 5.6,
+      "lat": 46.46666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1993/06/09"
+      }
+    ]
+  },
+  {
+    "name": "Mehdi, DJ",
+    "death": "2011/09/13",
+    "chartData": {
+      "date": "1977/01/20",
+      "time": "03:25",
+      "tz_hr": 1,
+      "lon": 2.283333333333333,
+      "lat": 48.916666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2011/09/13"
+      }
+    ]
+  },
+  {
+    "name": "Coppola, Gian-Carlo",
+    "death": "1986/05/26",
+    "chartData": {
+      "date": "1963/09/17",
+      "time": "10:08",
+      "tz_hr": -7,
+      "lon": -118.25,
+      "lat": 34.05
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1986/05/26"
+      }
+    ]
+  },
+  {
+    "name": "Noakes, Herbert",
+    "death": "1974/11/16",
+    "chartData": {
+      "date": "1943/11/03",
+      "time": "02:52",
+      "tz_hr": -5,
+      "lon": -87.55,
+      "lat": 37.96666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1974/11/16"
+      }
+    ]
+  },
+  {
+    "name": "Deneau, Julia Ann",
+    "death": "1990/09/30",
+    "chartData": {
+      "date": "1988/04/21",
+      "time": "12:36",
+      "tz_hr": -5,
+      "lon": -86.8,
+      "lat": 33.516666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1990/09/30"
+      }
+    ]
+  },
+  {
+    "name": "Burton, John",
+    "death": "2025/09/07",
+    "chartData": {
+      "date": "1932/12/15",
+      "time": "00:35",
+      "tz_hr": -5,
+      "lon": -84.45,
+      "lat": 39.166666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2025/09/07"
+      }
+    ]
+  },
+  {
+    "name": "Camathias, Florian",
+    "death": "1965/10/10",
+    "chartData": {
+      "date": "1924/03/23",
+      "time": "13:15",
+      "tz_hr": 1,
+      "lon": 9.366666666666667,
+      "lat": 47.416666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1965/10/10"
+      }
+    ]
+  },
+  {
+    "name": "Sanchez, Muriel",
+    "death": "1991/10/19",
+    "chartData": {
+      "date": "1981/12/12",
+      "time": "07:40",
+      "tz_hr": 1,
+      "lon": 2.8833333333333333,
+      "lat": 42.68333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1991/10/19"
+      }
+    ]
+  },
+  {
+    "name": "Roxborough, Elsie",
+    "death": "1949/10/02",
+    "chartData": {
+      "date": "1914/04/28",
+      "time": "06:00",
+      "tz_hr": -6,
+      "lon": -83.05,
+      "lat": 42.333333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1949/10/02"
+      }
+    ]
+  },
+  {
+    "name": "Buhl, Hermann",
+    "death": "1957/06/27",
+    "chartData": {
+      "date": "1924/09/21",
+      "time": "03:45",
+      "tz_hr": 1,
+      "lon": 11.4,
+      "lat": 47.266666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1957/06/27"
+      }
+    ]
+  },
+  {
+    "name": "Mazza, Carlo",
+    "death": "1986/02/09",
+    "chartData": {
+      "date": "1935/01/26",
+      "time": "06:00",
+      "tz_hr": 1,
+      "lon": 10.333333333333334,
+      "lat": 44.8
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1986/02/09"
+      }
+    ]
+  },
+  {
+    "name": "Dumon, Bernard",
+    "death": "1995/01/20",
+    "chartData": {
+      "date": "1935/07/16",
+      "time": "06:00",
+      "tz_hr": 1,
+      "lon": 2.3333333333333335,
+      "lat": 48.86666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1995/01/20"
+      }
+    ]
+  },
+  {
+    "name": "Sarro, Anthony",
+    "death": "1995/11/06",
+    "chartData": {
+      "date": "1963/09/04",
+      "time": "17:14",
+      "tz_hr": -4,
+      "lon": -71.06666666666666,
+      "lat": 42.36666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1995/11/06"
+      }
+    ]
+  },
+  {
+    "name": "Mantz, Johnny",
+    "death": "1972/10/25",
+    "chartData": {
+      "date": "1918/09/18",
+      "time": "15:20",
+      "tz_hr": -5,
+      "lon": -87.2,
+      "lat": 41.31666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1972/10/25"
+      }
+    ]
+  },
+  {
+    "name": "McCormick, John",
+    "death": "1981/05/07",
+    "chartData": {
+      "date": "1922/08/29",
+      "time": "13:30",
+      "tz_hr": -4,
+      "lon": -74.16666666666667,
+      "lat": 40.733333333333334
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1981/05/07"
+      }
+    ]
+  },
+  {
+    "name": "Strauch, Don",
+    "death": "2016/01/11",
+    "chartData": {
+      "date": "1926/04/08",
+      "time": "03:30",
+      "tz_hr": -6,
+      "lon": -91.65,
+      "lat": 43.0
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2016/01/11"
+      }
+    ]
+  },
+  {
+    "name": "Gustafson, William",
+    "death": "1987/12/01",
+    "chartData": {
+      "date": "1982/11/12",
+      "time": "00:50",
+      "tz_hr": -5,
+      "lon": -71.76666666666667,
+      "lat": 42.53333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1987/12/01"
+      }
+    ]
+  },
+  {
+    "name": "Porter, Pat",
+    "death": "2012/07/26",
+    "chartData": {
+      "date": "1959/05/31",
+      "time": "05:12",
+      "tz_hr": -5,
+      "lon": -95.13333333333334,
+      "lat": 46.45
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2012/07/26"
+      }
+    ]
+  },
+  {
+    "name": "Terray, Lionel",
+    "death": "1965/09/19",
+    "chartData": {
+      "date": "1921/07/25",
+      "time": "15:00",
+      "tz_hr": 1,
+      "lon": 5.716666666666667,
+      "lat": 45.166666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1965/09/19"
+      }
+    ]
+  },
+  {
+    "name": "Petty, Adam",
+    "death": "2000/05/12",
+    "chartData": {
+      "date": "1980/07/10",
+      "time": "15:45",
+      "tz_hr": -4,
+      "lon": -80.0,
+      "lat": 35.95
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2000/05/12"
+      }
+    ]
+  },
+  {
+    "name": "McGinn, Matt",
+    "death": "1977/01/05",
+    "chartData": {
+      "date": "1928/01/17",
+      "time": "22:30",
+      "tz_hr": 0,
+      "lon": -4.25,
+      "lat": 55.88333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1977/01/05"
+      }
+    ]
+  },
+  {
+    "name": "Carlos Ribeiro, Tereza",
+    "death": "1997/05/22",
+    "chartData": {
+      "date": "1956/05/07",
+      "time": "20:00",
+      "tz_hr": -3,
+      "lon": -35.15,
+      "lat": -6.183333333333334
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1997/05/22"
+      }
+    ]
+  },
+  {
+    "name": "Entwistle, Rachel",
+    "death": "2006/01/00",
+    "chartData": {
+      "date": "1978/12/14",
+      "time": "10:04",
+      "tz_hr": -5,
+      "lon": -70.93333333333334,
+      "lat": 42.21666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2006/01/00"
+      }
+    ]
+  },
+  {
+    "name": "Foley, Laurence",
+    "death": "2002/10/28",
+    "chartData": {
+      "date": "1942/10/05",
+      "time": "09:47",
+      "tz_hr": -4,
+      "lon": -71.06666666666666,
+      "lat": 42.36666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2002/10/28"
+      }
+    ]
+  },
+  {
+    "name": "Scott, Robert",
+    "death": "2003/06/08",
+    "chartData": {
+      "date": "1976/10/19",
+      "time": "03:46",
+      "tz_hr": -4,
+      "lon": -71.2,
+      "lat": 42.2
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2003/06/08"
+      }
+    ]
+  },
+  {
+    "name": "Lil Peep",
+    "death": "2017/11/15",
+    "chartData": {
+      "date": "1996/11/01",
+      "time": "10:37",
+      "tz_hr": -5,
+      "lon": -75.48333333333333,
+      "lat": 40.61666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2017/11/15"
+      }
+    ]
+  },
+  {
+    "name": "Valli, Romolo",
+    "death": "1980/02/01",
+    "chartData": {
+      "date": "1925/02/07",
+      "time": "21:20",
+      "tz_hr": 1,
+      "lon": 10.6,
+      "lat": 44.71666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1980/02/01"
+      }
+    ]
+  },
+  {
+    "name": "Armorin, François-Jean",
+    "death": "1950/06/12",
+    "chartData": {
+      "date": "1923/05/14",
+      "time": "12:00",
+      "tz_hr": 0,
+      "lon": 5.033333333333333,
+      "lat": 44.733333333333334
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1950/06/12"
+      }
+    ]
+  },
+  {
+    "name": "Blake, Tommy",
+    "death": "1985/12/24",
+    "chartData": {
+      "date": "1931/09/14",
+      "time": "13:10",
+      "tz_hr": -6,
+      "lon": -96.8,
+      "lat": 32.78333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1985/12/24"
+      }
+    ]
+  },
+  {
+    "name": "Hudson, Bob",
+    "death": "1977/12/13",
+    "chartData": {
+      "date": "1916/01/18",
+      "time": "01:00",
+      "tz_hr": -6,
+      "lon": -87.55,
+      "lat": 37.96666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1977/12/13"
+      }
+    ]
+  },
+  {
+    "name": "Galvin, Catherine T.",
+    "death": "1994/10/29",
+    "chartData": {
+      "date": "1966/10/20",
+      "time": "11:45",
+      "tz_hr": -4,
+      "lon": -71.08333333333333,
+      "lat": 42.3
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1994/10/29"
+      }
+    ]
+  },
+  {
+    "name": "Hawks, Ryan",
+    "death": "2011/03/01",
+    "chartData": {
+      "date": "1985/11/13",
+      "time": "09:10",
+      "tz_hr": -5,
+      "lon": -73.21666666666667,
+      "lat": 44.483333333333334
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2011/03/01"
+      }
+    ]
+  },
+  {
+    "name": "Rostagno, Mauro",
+    "death": "1988/09/26",
+    "chartData": {
+      "date": "1942/03/06",
+      "time": "15:20",
+      "tz_hr": 2,
+      "lon": 7.666666666666667,
+      "lat": 45.05
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1988/09/26"
+      }
+    ]
+  },
+  {
+    "name": "Leclercq, Patricia",
+    "death": "2002/07/08",
+    "chartData": {
+      "date": "1983/01/26",
+      "time": "21:35",
+      "tz_hr": 1,
+      "lon": 2.3,
+      "lat": 49.9
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2002/07/08"
+      }
+    ]
+  },
+  {
+    "name": "Stang, Ragna",
+    "death": "1978/03/29",
+    "chartData": {
+      "date": "1909/09/15",
+      "time": "15:30",
+      "tz_hr": 1,
+      "lon": 10.75,
+      "lat": 59.916666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1978/03/29"
+      }
+    ]
+  },
+  {
+    "name": "Berbert, Ruy",
+    "death": "1972/01/02",
+    "chartData": {
+      "date": "1947/12/16",
+      "time": "12:30",
+      "tz_hr": -3,
+      "lon": -51.3,
+      "lat": -22.216666666666665
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1972/01/02"
+      }
+    ]
+  },
+  {
+    "name": "Krafft, Maurice",
+    "death": "1991/06/03",
+    "chartData": {
+      "date": "1946/03/25",
+      "time": "04:45",
+      "tz_hr": 1,
+      "lon": 7.333333333333333,
+      "lat": 47.75
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1991/06/03"
+      }
+    ]
+  },
+  {
+    "name": "Duquenoix, Gilbert",
+    "death": "1990/10/22",
+    "chartData": {
+      "date": "1942/05/06",
+      "time": "13:40",
+      "tz_hr": 2,
+      "lon": 2.55,
+      "lat": 50.483333333333334
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1990/10/22"
+      }
+    ]
+  },
+  {
+    "name": "Zay, Jean",
+    "death": "1944/06/20",
+    "chartData": {
+      "date": "1904/08/06",
+      "time": "21:25",
+      "tz_hr": 0.15555555555555556,
+      "lon": 1.9,
+      "lat": 47.916666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1944/06/20"
+      }
+    ]
+  },
+  {
+    "name": "Stoddard, Dorwan",
+    "death": "2011/01/08",
+    "chartData": {
+      "date": "1934/03/07",
+      "time": "09:00",
+      "tz_hr": -7,
+      "lon": -110.35,
+      "lat": 31.55
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2011/01/08"
+      }
+    ]
+  },
+  {
+    "name": "McIntosh, Robbie",
+    "death": "1974/09/23",
+    "chartData": {
+      "date": "1950/05/02",
+      "time": "16:30",
+      "tz_hr": 1,
+      "lon": -3.0,
+      "lat": 56.46666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1974/09/23"
+      }
+    ]
+  },
+  {
+    "name": "Servel, Francis",
+    "death": "2012/01/13",
+    "chartData": {
+      "date": "1940/07/26",
+      "time": "04:00",
+      "tz_hr": 2,
+      "lon": -4.483333333333333,
+      "lat": 48.4
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2012/01/13"
+      }
+    ]
+  },
+  {
+    "name": "Romand, Florence",
+    "death": "1993/01/08",
+    "chartData": {
+      "date": "1956/03/06",
+      "time": "01:30",
+      "tz_hr": 1,
+      "lon": 5.866666666666667,
+      "lat": 46.38333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1993/01/08"
+      }
+    ]
+  },
+  {
+    "name": "Munson, Thurman",
+    "death": "1979/08/02",
+    "chartData": {
+      "date": "1947/06/07",
+      "time": "13:50",
+      "tz_hr": -5,
+      "lon": -81.51666666666667,
+      "lat": 41.083333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1979/08/02"
+      }
+    ]
+  },
+  {
+    "name": "Westerfield, Roy",
+    "death": "1988/05/04",
+    "chartData": {
+      "date": "1925/09/30",
+      "time": "03:40",
+      "tz_hr": -6,
+      "lon": -100.26666666666667,
+      "lat": 36.016666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1988/05/04"
+      }
+    ]
+  },
+  {
+    "name": "Horst, Kate ter",
+    "death": "1992/02/21",
+    "chartData": {
+      "date": "1906/07/06",
+      "time": "23:05",
+      "tz_hr": 0.32555555555555554,
+      "lon": 4.9,
+      "lat": 52.36666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1992/02/21"
+      }
+    ]
+  },
+  {
+    "name": "Wolinski, Georges",
+    "death": "2015/01/07",
+    "chartData": {
+      "date": "1934/06/29",
+      "time": "17:00",
+      "tz_hr": 1,
+      "lon": 10.183333333333334,
+      "lat": 36.8
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2015/01/07"
+      }
+    ]
+  },
+  {
+    "name": "Matalon, Antonio",
+    "death": "2001/08/31",
+    "chartData": {
+      "date": "1944/03/06",
+      "time": "05:00",
+      "tz_hr": 1,
+      "lon": 9.2,
+      "lat": 45.46666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2001/08/31"
+      }
+    ]
+  },
+  {
+    "name": "Mansfield, Jayne",
+    "death": "1967/06/29",
+    "chartData": {
+      "date": "1933/04/19",
+      "time": "09:11",
+      "tz_hr": -5,
+      "lon": -75.3,
+      "lat": 40.03333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1967/06/29"
+      }
+    ]
+  },
+  {
+    "name": "Trintignant, Marie",
+    "death": "2003/08/01",
+    "chartData": {
+      "date": "1962/01/21",
+      "time": "13:00",
+      "tz_hr": 1,
+      "lon": 2.25,
+      "lat": 48.833333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2003/08/01"
+      }
+    ]
+  },
+  {
+    "name": "Juillet, Pierre",
+    "death": "1999/12/23",
+    "chartData": {
+      "date": "1921/07/22",
+      "time": "12:00",
+      "tz_hr": 1,
+      "lon": 5.933333333333334,
+      "lat": 45.9
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1999/12/23"
+      }
+    ]
+  },
+  {
+    "name": "Blyden, Larry",
+    "death": "1975/06/06",
+    "chartData": {
+      "date": "1925/06/23",
+      "time": "04:56",
+      "tz_hr": -6,
+      "lon": -95.36666666666666,
+      "lat": 29.766666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1975/06/06"
+      }
+    ]
+  },
+  {
+    "name": "Smith, Abram",
+    "death": "1930/08/07",
+    "chartData": {
+      "date": "1910/10/14",
+      "time": "23:50",
+      "tz_hr": -6,
+      "lon": -85.66666666666667,
+      "lat": 40.56666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1930/08/07"
+      }
+    ]
+  },
+  {
+    "name": "Ross, Persis",
+    "death": "1987/07/16",
+    "chartData": {
+      "date": "1950/10/05",
+      "time": "10:08",
+      "tz_hr": -5,
+      "lon": -71.55,
+      "lat": 42.333333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1987/07/16"
+      }
+    ]
+  },
+  {
+    "name": "Hoeg, Susanne",
+    "death": "1992/05/25",
+    "chartData": {
+      "date": "1965/11/27",
+      "time": "10:15",
+      "tz_hr": -5,
+      "lon": -71.01666666666667,
+      "lat": 42.083333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1992/05/25"
+      }
+    ]
+  },
+  {
+    "name": "Collum, Lindsay",
+    "death": "2001/01/23",
+    "chartData": {
+      "date": "1997/10/03",
+      "time": "18:44",
+      "tz_hr": -4,
+      "lon": -70.85,
+      "lat": 42.55
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2001/01/23"
+      }
+    ]
+  },
+  {
+    "name": "Kahahawai, Joseph",
+    "death": "1932/01/08",
+    "chartData": {
+      "date": "1909/12/25",
+      "time": "23:50",
+      "tz_hr": -10.5,
+      "lon": -156.68333333333334,
+      "lat": 20.883333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1932/01/08"
+      }
+    ]
+  },
+  {
+    "name": "King, Hugh Jr.",
+    "death": "1976/09/00",
+    "chartData": {
+      "date": "1943/06/09",
+      "time": "08:23",
+      "tz_hr": -7,
+      "lon": -118.25,
+      "lat": 34.05
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1976/09/00"
+      }
+    ]
+  },
+  {
+    "name": "Santerre, Stephanie",
+    "death": "1996/01/28",
+    "chartData": {
+      "date": "1979/11/29",
+      "time": "12:57",
+      "tz_hr": -5,
+      "lon": -71.8,
+      "lat": 42.583333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1996/01/28"
+      }
+    ]
+  },
+  {
+    "name": "Richards, Ruth",
+    "death": "1989/04/14",
+    "chartData": {
+      "date": "1977/03/02",
+      "time": "13:21",
+      "tz_hr": -8,
+      "lon": -121.26666666666667,
+      "lat": 37.35
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1989/04/14"
+      }
+    ]
+  },
+  {
+    "name": "Grandjean, Marie-Celine",
+    "death": "1995/01/26",
+    "chartData": {
+      "date": "1974/11/29",
+      "time": "18:45",
+      "tz_hr": 1,
+      "lon": 5.9,
+      "lat": 48.68333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1995/01/26"
+      }
+    ]
+  },
+  {
+    "name": "McReynolds, David",
+    "death": "2018/08/17",
+    "chartData": {
+      "date": "1929/10/25",
+      "time": "14:10",
+      "tz_hr": -8,
+      "lon": -118.25,
+      "lat": 34.05
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2018/08/17"
+      }
+    ]
+  },
+  {
+    "name": "Monnerot, Guy",
+    "death": "1954/11/01",
+    "chartData": {
+      "date": "1931/12/07",
+      "time": "06:20",
+      "tz_hr": 0,
+      "lon": 0.48333333333333334,
+      "lat": 44.85
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1954/11/01"
+      }
+    ]
+  },
+  {
+    "name": "Ramos, Vitor Carlos",
+    "death": "1974/07/13",
+    "chartData": {
+      "date": "1944/01/18",
+      "time": "02:00",
+      "tz_hr": -3,
+      "lon": -46.333333333333336,
+      "lat": -23.95
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1974/07/13"
+      }
+    ]
+  },
+  {
+    "name": "Hovden, Bruno",
+    "death": "1985/01/21",
+    "chartData": {
+      "date": "1960/08/26",
+      "time": "15:30",
+      "tz_hr": 2,
+      "lon": 10.75,
+      "lat": 59.916666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1985/01/21"
+      }
+    ]
+  },
+  {
+    "name": "Davies, Jimmy",
+    "death": "1966/06/11",
+    "chartData": {
+      "date": "1929/08/08",
+      "time": "06:10",
+      "tz_hr": -8,
+      "lon": -118.25,
+      "lat": 34.15
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1966/06/11"
+      }
+    ]
+  },
+  {
+    "name": "Bradley, Everette",
+    "death": "1973/02/03",
+    "chartData": {
+      "date": "1954/09/02",
+      "time": "08:18",
+      "tz_hr": -6,
+      "lon": -94.1,
+      "lat": 30.083333333333332
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1973/02/03"
+      }
+    ]
+  },
+  {
+    "name": "Christophe, Father",
+    "death": "1996/05/23",
+    "chartData": {
+      "date": "1950/10/01",
+      "time": "14:30",
+      "tz_hr": 1,
+      "lon": 1.3333333333333333,
+      "lat": 47.583333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1996/05/23"
+      }
+    ]
+  },
+  {
+    "name": "Dunn, Ryan",
+    "death": "2011/06/20",
+    "chartData": {
+      "date": "1977/06/11",
+      "time": "18:14",
+      "tz_hr": -4,
+      "lon": -81.86666666666666,
+      "lat": 41.13333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2011/06/20"
+      }
+    ]
+  },
+  {
+    "name": "Stompanato, Johnny",
+    "death": "1958/04/04",
+    "chartData": {
+      "date": "1925/10/19",
+      "time": "17:00",
+      "tz_hr": -6,
+      "lon": -88.45,
+      "lat": 42.31666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1958/04/04"
+      }
+    ]
+  },
+  {
+    "name": "Harloe, Walter",
+    "death": "1974/11/02",
+    "chartData": {
+      "date": "1932/08/31",
+      "time": "15:07",
+      "tz_hr": -5,
+      "lon": -81.25,
+      "lat": 37.416666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1974/11/02"
+      }
+    ]
+  },
+  {
+    "name": "Garland, Judy",
+    "death": "1969/06/00",
+    "chartData": {
+      "date": "1922/06/10",
+      "time": "06:00",
+      "tz_hr": -6,
+      "lon": -93.53333333333333,
+      "lat": 47.233333333333334
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1969/06/00"
+      }
+    ]
+  },
+  {
+    "name": "Herron, Bob",
+    "death": "2021/10/10",
+    "chartData": {
+      "date": "1924/09/23",
+      "time": "19:40",
+      "tz_hr": -8,
+      "lon": -118.25,
+      "lat": 34.05
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2021/10/10"
+      }
+    ]
+  },
+  {
+    "name": "Lange, August",
+    "death": "1970/08/06",
+    "chartData": {
+      "date": "1907/04/28",
+      "time": "10:00",
+      "tz_hr": 1,
+      "lon": 10.75,
+      "lat": 59.916666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1970/08/06"
+      }
+    ]
+  },
+  {
+    "name": "Helliwell, Trey",
+    "death": "2001/05/10",
+    "chartData": {
+      "date": "1964/05/12",
+      "time": "15:42",
+      "tz_hr": -4,
+      "lon": -71.35,
+      "lat": 42.28333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2001/05/10"
+      }
+    ]
+  },
+  {
+    "name": "Parent, Steven",
+    "death": "1969/08/09",
+    "chartData": {
+      "date": "1951/02/12",
+      "time": "02:00",
+      "tz_hr": -8,
+      "lon": -118.15,
+      "lat": 34.15
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1969/08/09"
+      }
+    ]
+  },
+  {
+    "name": "Deschamps, Stéphane",
+    "death": "1995/08/14",
+    "chartData": {
+      "date": "1971/06/23",
+      "time": "04:35",
+      "tz_hr": 1,
+      "lon": -0.8833333333333333,
+      "lat": 47.06666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1995/08/14"
+      }
+    ]
+  },
+  {
+    "name": "Nimis, Loredana",
+    "death": "1985/06/15",
+    "chartData": {
+      "date": "1965/09/25",
+      "time": "17:30",
+      "tz_hr": 1,
+      "lon": 12.483333333333333,
+      "lat": 41.9
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1985/06/15"
+      }
+    ]
+  },
+  {
+    "name": "Couturier, Virginie",
+    "death": "1986/06/25",
+    "chartData": {
+      "date": "1981/02/24",
+      "time": "14:21",
+      "tz_hr": 1,
+      "lon": 0.2,
+      "lat": 48.0
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1986/06/25"
+      }
+    ]
+  },
+  {
+    "name": "Casal, Tino",
+    "death": "1991/09/22",
+    "chartData": {
+      "date": "1950/02/21",
+      "time": "22:00",
+      "tz_hr": 1,
+      "lon": -5.833333333333333,
+      "lat": 43.36666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1991/09/22"
+      }
+    ]
+  },
+  {
+    "name": "Green, Jimmy Dean",
+    "death": "1994/03/03",
+    "chartData": {
+      "date": "1960/04/12",
+      "time": "04:03",
+      "tz_hr": -6,
+      "lon": -95.21666666666667,
+      "lat": 42.65
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1994/03/03"
+      }
+    ]
+  },
+  {
+    "name": "Smithson, Robert",
+    "death": "1973/07/20",
+    "chartData": {
+      "date": "1938/01/02",
+      "time": "15:42",
+      "tz_hr": -5,
+      "lon": -74.13333333333334,
+      "lat": 40.85
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1973/07/20"
+      }
+    ]
+  },
+  {
+    "name": "Del Grande, Enea",
+    "death": "1998/01/07",
+    "chartData": {
+      "date": "1941/02/08",
+      "time": "03:00",
+      "tz_hr": 2,
+      "lon": 8.666666666666666,
+      "lat": 45.8
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1998/01/07"
+      }
+    ]
+  },
+  {
+    "name": "Currie, Melissa Helen",
+    "death": "1996/03/13",
+    "chartData": {
+      "date": "1991/01/11",
+      "time": "10:51",
+      "tz_hr": 0,
+      "lon": -3.216666666666667,
+      "lat": 55.95
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1996/03/13"
+      }
+    ]
+  },
+  {
+    "name": "Casey, Sandy",
+    "death": "2017/10/01",
+    "chartData": {
+      "date": "1982/01/11",
+      "time": "01:42",
+      "tz_hr": -5,
+      "lon": -72.96666666666667,
+      "lat": 43.61666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2017/10/01"
+      }
+    ]
+  },
+  {
+    "name": "Anderson, Berisford",
+    "death": "1994/02/05",
+    "chartData": {
+      "date": "1956/02/26",
+      "time": "15:35",
+      "tz_hr": -5,
+      "lon": -71.06666666666666,
+      "lat": 42.36666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1994/02/05"
+      }
+    ]
+  },
+  {
+    "name": "Bissell, Patrick",
+    "death": "1987/12/00",
+    "chartData": {
+      "date": "1957/12/01",
+      "time": "03:11",
+      "tz_hr": -6,
+      "lon": -97.4,
+      "lat": 27.8
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1987/12/00"
+      }
+    ]
+  },
+  {
+    "name": "Jacques, Father",
+    "death": "2016/07/26",
+    "chartData": {
+      "date": "1930/11/30",
+      "time": "10:00",
+      "tz_hr": 0,
+      "lon": 1.15,
+      "lat": 49.45
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2016/07/26"
+      }
+    ]
+  },
+  {
+    "name": "Formo, Ivar",
+    "death": "2006/12/26",
+    "chartData": {
+      "date": "1951/06/24",
+      "time": "15:15",
+      "tz_hr": 1,
+      "lon": 10.75,
+      "lat": 59.916666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2006/12/26"
+      }
+    ]
+  },
+  {
+    "name": "Mazzola, Valentino",
+    "death": "1949/05/04",
+    "chartData": {
+      "date": "1919/01/26",
+      "time": "23:00",
+      "tz_hr": 1,
+      "lon": 9.516666666666667,
+      "lat": 45.53333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1949/05/04"
+      }
+    ]
+  },
+  {
+    "name": "Wessner, Jonathan",
+    "death": "2003/09/00",
+    "chartData": {
+      "date": "1983/07/11",
+      "time": "05:55",
+      "tz_hr": -4,
+      "lon": -70.6,
+      "lat": 41.55
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2003/09/00"
+      }
+    ]
+  },
+  {
+    "name": "Joplin, Janis",
+    "death": "1970/10/04",
+    "chartData": {
+      "date": "1943/01/19",
+      "time": "09:45",
+      "tz_hr": -5,
+      "lon": -93.93333333333334,
+      "lat": 29.9
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1970/10/04"
+      }
+    ]
+  },
+  {
+    "name": "Dorléac, Françoise",
+    "death": "1967/06/26",
+    "chartData": {
+      "date": "1942/03/21",
+      "time": "18:10",
+      "tz_hr": 2,
+      "lon": 2.3333333333333335,
+      "lat": 48.86666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1967/06/26"
+      }
+    ]
+  },
+  {
+    "name": "Luna, Patricia",
+    "death": "1993/09/14",
+    "chartData": {
+      "date": "1950/09/25",
+      "time": "13:00",
+      "tz_hr": -7,
+      "lon": -109.36666666666666,
+      "lat": 33.083333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1993/09/14"
+      }
+    ]
+  },
+  {
+    "name": "Thompson, Mickey",
+    "death": "1988/03/16",
+    "chartData": {
+      "date": "1928/12/07",
+      "time": "03:25",
+      "tz_hr": -8,
+      "lon": -118.43333333333334,
+      "lat": 34.28333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1988/03/16"
+      }
+    ]
+  },
+  {
+    "name": "Burou, Georges",
+    "death": "1987/12/17",
+    "chartData": {
+      "date": "1910/09/06",
+      "time": "23:00",
+      "tz_hr": 0.15555555555555556,
+      "lon": 0.08333333333333333,
+      "lat": 43.233333333333334
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1987/12/17"
+      }
+    ]
+  },
+  {
+    "name": "Parish, John Felton",
+    "death": "1982/08/09",
+    "chartData": {
+      "date": "1933/07/04",
+      "time": "23:15",
+      "tz_hr": -6,
+      "lon": -96.8,
+      "lat": 32.78333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1982/08/09"
+      }
+    ]
+  },
+  {
+    "name": "Flynn, Corinne",
+    "death": "1991/08/27",
+    "chartData": {
+      "date": "1958/02/28",
+      "time": "06:32",
+      "tz_hr": -5,
+      "lon": -70.98333333333333,
+      "lat": 42.38333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1991/08/27"
+      }
+    ]
+  },
+  {
+    "name": "Buckley, Tim",
+    "death": "1975/06/29",
+    "chartData": {
+      "date": "1947/02/14",
+      "time": "19:12",
+      "tz_hr": -5,
+      "lon": -77.03333333333333,
+      "lat": 38.9
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1975/06/29"
+      }
+    ]
+  },
+  {
+    "name": "Sedgwick, Edie",
+    "death": "1971/11/16",
+    "chartData": {
+      "date": "1943/04/20",
+      "time": "09:47",
+      "tz_hr": -7,
+      "lon": -119.7,
+      "lat": 34.416666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1971/11/16"
+      }
+    ]
+  },
+  {
+    "name": "Bonnafous, Céline",
+    "death": "1992/05/13",
+    "chartData": {
+      "date": "1977/07/26",
+      "time": "13:00",
+      "tz_hr": 2,
+      "lon": 1.4333333333333333,
+      "lat": 43.6
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1992/05/13"
+      }
+    ]
+  },
+  {
+    "name": "Proctor, Christy",
+    "death": "2003/03/04",
+    "chartData": {
+      "date": "1980/01/04",
+      "time": "14:06",
+      "tz_hr": -5,
+      "lon": -71.06666666666666,
+      "lat": 42.36666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2003/03/04"
+      }
+    ]
+  },
+  {
+    "name": "Donat, Cattin Marco",
+    "death": "1988/08/18",
+    "chartData": {
+      "date": "1953/09/28",
+      "time": "08:15",
+      "tz_hr": 1,
+      "lon": 7.666666666666667,
+      "lat": 45.05
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1988/08/18"
+      }
+    ]
+  },
+  {
+    "name": "Chaland, Yves",
+    "death": "1990/07/18",
+    "chartData": {
+      "date": "1957/04/03",
+      "time": "20:00",
+      "tz_hr": 1,
+      "lon": 4.85,
+      "lat": 45.75
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1990/07/18"
+      }
+    ]
+  },
+  {
+    "name": "Cunningham, Richard",
+    "death": "1994/10/31",
+    "chartData": {
+      "date": "1943/04/28",
+      "time": "20:20",
+      "tz_hr": -6,
+      "lon": -86.13333333333334,
+      "lat": 40.483333333333334
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1994/10/31"
+      }
+    ]
+  },
+  {
+    "name": "Johnson, Eddie",
+    "death": "1974/06/30",
+    "chartData": {
+      "date": "1919/02/10",
+      "time": "23:00",
+      "tz_hr": -5,
+      "lon": -77.46666666666667,
+      "lat": 37.55
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1974/06/30"
+      }
+    ]
+  },
+  {
+    "name": "Brunolt, Martin L.",
+    "death": "1994/08/20",
+    "chartData": {
+      "date": "1984/09/23",
+      "time": "09:20",
+      "tz_hr": -7,
+      "lon": -117.91666666666667,
+      "lat": 33.833333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1994/08/20"
+      }
+    ]
+  },
+  {
+    "name": "Parny, Jeannick",
+    "death": "1994/12/09",
+    "chartData": {
+      "date": "1980/12/24",
+      "time": "09:35",
+      "tz_hr": 1,
+      "lon": 1.4833333333333334,
+      "lat": 49.083333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1994/12/09"
+      }
+    ]
+  },
+  {
+    "name": "Presti, Joanne",
+    "death": "2004/01/00",
+    "chartData": {
+      "date": "1969/03/07",
+      "time": "01:09",
+      "tz_hr": -5,
+      "lon": -71.1,
+      "lat": 42.483333333333334
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2004/01/00"
+      }
+    ]
+  },
+  {
+    "name": "Michelin, Édouard (1963)",
+    "death": "2006/05/26",
+    "chartData": {
+      "date": "1963/08/13",
+      "time": "03:10",
+      "tz_hr": 1,
+      "lon": 3.0833333333333335,
+      "lat": 45.78333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2006/05/26"
+      }
+    ]
+  },
+  {
+    "name": "Clark, Jim",
+    "death": "1968/04/07",
+    "chartData": {
+      "date": "1936/03/04",
+      "time": "15:25",
+      "tz_hr": 0,
+      "lon": -3.033333333333333,
+      "lat": 56.4
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1968/04/07"
+      }
+    ]
+  },
+  {
+    "name": "Nicolodi, Daria",
+    "death": "2020/11/26",
+    "chartData": {
+      "date": "1950/06/19",
+      "time": "13:45",
+      "tz_hr": 1,
+      "lon": 11.25,
+      "lat": 43.766666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2020/11/26"
+      }
+    ]
+  },
+  {
+    "name": "Borst, Els",
+    "death": "2014/02/08",
+    "chartData": {
+      "date": "1932/03/22",
+      "time": "23:00",
+      "tz_hr": 0.32555555555555554,
+      "lon": 4.9,
+      "lat": 52.36666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2014/02/08"
+      }
+    ]
+  },
+  {
+    "name": "Pierce, Larry",
+    "death": "1961/02/15",
+    "chartData": {
+      "date": "1936/08/05",
+      "time": "12:37",
+      "tz_hr": -6,
+      "lon": -86.15,
+      "lat": 39.766666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1961/02/15"
+      }
+    ]
+  },
+  {
+    "name": "Smith, Jay R.",
+    "death": "2002/10/05",
+    "chartData": {
+      "date": "1915/08/29",
+      "time": "08:30",
+      "tz_hr": -8,
+      "lon": -118.25,
+      "lat": 34.05
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2002/10/05"
+      }
+    ]
+  },
+  {
+    "name": "Hedbany, Ronald Ennis",
+    "death": "1994/10/28",
+    "chartData": {
+      "date": "1952/07/01",
+      "time": "21:25",
+      "tz_hr": -6,
+      "lon": -87.9,
+      "lat": 43.03333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1994/10/28"
+      }
+    ]
+  },
+  {
+    "name": "Budge, Donald",
+    "death": "2000/01/26",
+    "chartData": {
+      "date": "1915/06/13",
+      "time": "04:00",
+      "tz_hr": -8,
+      "lon": -122.26666666666667,
+      "lat": 37.8
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2000/01/26"
+      }
+    ]
+  },
+  {
+    "name": "Bryan, Jimmy",
+    "death": "1960/06/19",
+    "chartData": {
+      "date": "1926/01/28",
+      "time": "04:10",
+      "tz_hr": -7,
+      "lon": -112.06666666666666,
+      "lat": 33.45
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1960/06/19"
+      }
+    ]
+  },
+  {
+    "name": "Mitchell, Artie",
+    "death": "1991/02/27",
+    "chartData": {
+      "date": "1945/12/17",
+      "time": "01:18",
+      "tz_hr": -8,
+      "lon": -121.26666666666667,
+      "lat": 38.13333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1991/02/27"
+      }
+    ]
+  },
+  {
+    "name": "Bergamo, Bitti",
+    "death": "1979/10/12",
+    "chartData": {
+      "date": "1930/01/01",
+      "time": "03:45",
+      "tz_hr": 1,
+      "lon": 12.35,
+      "lat": 45.45
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1979/10/12"
+      }
+    ]
+  },
+  {
+    "name": "Stevens, Ted",
+    "death": "2010/08/09",
+    "chartData": {
+      "date": "1923/11/18",
+      "time": "18:15",
+      "tz_hr": -6,
+      "lon": -86.15,
+      "lat": 39.766666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2010/08/09"
+      }
+    ]
+  },
+  {
+    "name": "Reid, Wallace Jr.",
+    "death": "1990/02/26",
+    "chartData": {
+      "date": "1917/06/18",
+      "time": "16:45",
+      "tz_hr": -8,
+      "lon": -118.33333333333333,
+      "lat": 34.1
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1990/02/26"
+      }
+    ]
+  },
+  {
+    "name": "Casarotto, Renato",
+    "death": "1986/07/16",
+    "chartData": {
+      "date": "1948/05/15",
+      "time": "12:30",
+      "tz_hr": 2,
+      "lon": 11.55,
+      "lat": 45.55
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1986/07/16"
+      }
+    ]
+  },
+  {
+    "name": "Jenner, Linda",
+    "death": "1993/01/08",
+    "chartData": {
+      "date": "1950/06/12",
+      "time": "13:45",
+      "tz_hr": -4,
+      "lon": -71.06666666666666,
+      "lat": 42.36666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1993/01/08"
+      }
+    ]
+  },
+  {
+    "name": "Corll, Dean",
+    "death": "1973/08/08",
+    "chartData": {
+      "date": "1939/12/24",
+      "time": "20:45",
+      "tz_hr": -6,
+      "lon": -85.13333333333334,
+      "lat": 41.13333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1973/08/08"
+      }
+    ]
+  },
+  {
+    "name": "Goad, Charles",
+    "death": "1977/12/13",
+    "chartData": {
+      "date": "1916/07/07",
+      "time": "20:00",
+      "tz_hr": -6,
+      "lon": -87.55,
+      "lat": 37.96666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1977/12/13"
+      }
+    ]
+  },
+  {
+    "name": "Fitzgerald, Amy",
+    "death": "1993/05/11",
+    "chartData": {
+      "date": "1962/11/12",
+      "time": "04:17",
+      "tz_hr": -5,
+      "lon": -71.06666666666666,
+      "lat": 42.36666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1993/05/11"
+      }
+    ]
+  },
+  {
+    "name": "Renfro, Brad",
+    "death": "2008/01/15",
+    "chartData": {
+      "date": "1982/07/25",
+      "time": "22:20",
+      "tz_hr": -4,
+      "lon": -83.91666666666667,
+      "lat": 35.96666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2008/01/15"
+      }
+    ]
+  },
+  {
+    "name": "Rikkers, Rowena",
+    "death": "2001/08/15",
+    "chartData": {
+      "date": "1996/08/30",
+      "time": "16:55",
+      "tz_hr": 2,
+      "lon": 4.666666666666667,
+      "lat": 51.8
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2001/08/15"
+      }
+    ]
+  },
+  {
+    "name": "kulik, Elodie",
+    "death": "2002/01/10",
+    "chartData": {
+      "date": "1977/12/29",
+      "time": "02:40",
+      "tz_hr": 1,
+      "lon": 2.8333333333333335,
+      "lat": 50.43333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2002/01/10"
+      }
+    ]
+  },
+  {
+    "name": "Skaare, Bjørn",
+    "death": "1989/06/21",
+    "chartData": {
+      "date": "1958/10/29",
+      "time": "17:20",
+      "tz_hr": 1,
+      "lon": 10.75,
+      "lat": 59.916666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1989/06/21"
+      }
+    ]
+  },
+  {
+    "name": "Argenta, Ataúlfo",
+    "death": "1958/01/21",
+    "chartData": {
+      "date": "1913/11/21",
+      "time": "03:30",
+      "tz_hr": 0,
+      "lon": -3.216666666666667,
+      "lat": 43.38333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1958/01/21"
+      }
+    ]
+  },
+  {
+    "name": "Scotto, Guy",
+    "death": "1988/12/27",
+    "chartData": {
+      "date": "1950/06/15",
+      "time": "10:00",
+      "tz_hr": 0,
+      "lon": 6.966666666666667,
+      "lat": 36.833333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1988/12/27"
+      }
+    ]
+  },
+  {
+    "name": "Ford, Leo",
+    "death": "1991/07/17",
+    "chartData": {
+      "date": "1957/07/05",
+      "time": "07:44",
+      "tz_hr": -5,
+      "lon": -84.2,
+      "lat": 39.766666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1991/07/17"
+      }
+    ]
+  },
+  {
+    "name": "Nargeolet, Paul-Henri",
+    "death": "2023/06/18",
+    "chartData": {
+      "date": "1946/03/02",
+      "time": "06:30",
+      "tz_hr": 1,
+      "lon": 6.866666666666667,
+      "lat": 45.916666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2023/06/18"
+      }
+    ]
+  },
+  {
+    "name": "Pironi, Didier",
+    "death": "1987/08/23",
+    "chartData": {
+      "date": "1952/03/26",
+      "time": "05:40",
+      "tz_hr": 1,
+      "lon": 2.533333333333333,
+      "lat": 48.71666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1987/08/23"
+      }
+    ]
+  },
+  {
+    "name": "Nadeau, Amanda",
+    "death": "2006/03/18",
+    "chartData": {
+      "date": "1989/03/06",
+      "time": "03:16",
+      "tz_hr": -5,
+      "lon": -71.06666666666666,
+      "lat": 42.36666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2006/03/18"
+      }
+    ]
+  },
+  {
+    "name": "Straszak, Roy",
+    "death": "1993/12/10",
+    "chartData": {
+      "date": "1936/11/13",
+      "time": "04:00",
+      "tz_hr": -6,
+      "lon": -87.9,
+      "lat": 43.03333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1993/12/10"
+      }
+    ]
+  },
+  {
+    "name": "Maso, Maria Rosa",
+    "death": "1991/04/18",
+    "chartData": {
+      "date": "1943/02/21",
+      "time": "05:30",
+      "tz_hr": 1,
+      "lon": 11.283333333333333,
+      "lat": 45.416666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1991/04/18"
+      }
+    ]
+  },
+  {
+    "name": "Orr, Kaitlyn",
+    "death": "2002/10/29",
+    "chartData": {
+      "date": "1994/07/20",
+      "time": "21:57",
+      "tz_hr": -4,
+      "lon": -72.65,
+      "lat": 42.333333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2002/10/29"
+      }
+    ]
+  },
+  {
+    "name": "Mengele, Josef",
+    "death": "1979/02/07",
+    "chartData": {
+      "date": "1911/03/16",
+      "time": "11:45",
+      "tz_hr": 1,
+      "lon": 10.266666666666667,
+      "lat": 48.45
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1979/02/07"
+      }
+    ]
+  },
+  {
+    "name": "Wood, Natalie",
+    "death": "1981/11/29",
+    "chartData": {
+      "date": "1938/07/20",
+      "time": "11:16",
+      "tz_hr": -8,
+      "lon": -122.41666666666667,
+      "lat": 37.78333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1981/11/29"
+      }
+    ]
+  },
+  {
+    "name": "Renaud, Francois",
+    "death": "1975/07/03",
+    "chartData": {
+      "date": "1923/03/05",
+      "time": "15:00",
+      "tz_hr": 7,
+      "lon": 104.98333333333333,
+      "lat": 22.833333333333332
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1975/07/03"
+      }
+    ]
+  },
+  {
+    "name": "Turner, Megan",
+    "death": "1996/03/13",
+    "chartData": {
+      "date": "1990/11/10",
+      "time": "14:07",
+      "tz_hr": 0,
+      "lon": -3.95,
+      "lat": 56.11666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1996/03/13"
+      }
+    ]
+  },
+  {
+    "name": "Fauquet, Philippe",
+    "death": "1944/10/12",
+    "chartData": {
+      "date": "1921/11/07",
+      "time": "04:35",
+      "tz_hr": 0,
+      "lon": 2.2666666666666666,
+      "lat": 48.88333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1944/10/12"
+      }
+    ]
+  },
+  {
+    "name": "Seguin, Amy",
+    "death": "1992/04/00",
+    "chartData": {
+      "date": "1987/04/03",
+      "time": "02:07",
+      "tz_hr": -5,
+      "lon": -71.41666666666667,
+      "lat": 42.28333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1992/04/00"
+      }
+    ]
+  },
+  {
+    "name": "Colonna, Jean-Jé",
+    "death": "2006/11/01",
+    "chartData": {
+      "date": "1939/06/24",
+      "time": "01:00",
+      "tz_hr": 1,
+      "lon": 8.983333333333333,
+      "lat": 41.6
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2006/11/01"
+      }
+    ]
+  },
+  {
+    "name": "Sydsæter, Knut",
+    "death": "2012/09/29",
+    "chartData": {
+      "date": "1937/10/05",
+      "time": "15:20",
+      "tz_hr": 1,
+      "lon": 10.75,
+      "lat": 59.916666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2012/09/29"
+      }
+    ]
+  },
+  {
+    "name": "Schell, Harry",
+    "death": "1960/05/13",
+    "chartData": {
+      "date": "1921/06/29",
+      "time": "01:00",
+      "tz_hr": 1,
+      "lon": 2.2666666666666666,
+      "lat": 48.85
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1960/05/13"
+      }
+    ]
+  },
+  {
+    "name": "Wald, John Gregory",
+    "death": "1996/03/24",
+    "chartData": {
+      "date": "1960/04/19",
+      "time": "21:59",
+      "tz_hr": -5,
+      "lon": -71.06666666666666,
+      "lat": 42.36666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1996/03/24"
+      }
+    ]
+  },
+  {
+    "name": "Joire, Jules",
+    "death": "1944/03/18",
+    "chartData": {
+      "date": "1914/08/29",
+      "time": "10:10",
+      "tz_hr": 0,
+      "lon": 3.1666666666666665,
+      "lat": 50.7
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1944/03/18"
+      }
+    ]
+  },
+  {
+    "name": "Agnelli, Roger",
+    "death": "2016/03/19",
+    "chartData": {
+      "date": "1959/05/03",
+      "time": "09:30",
+      "tz_hr": -3,
+      "lon": -46.61666666666667,
+      "lat": -23.55
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2016/03/19"
+      }
+    ]
+  },
+  {
+    "name": "Durand, Craig S.",
+    "death": "2004/01/00",
+    "chartData": {
+      "date": "1953/09/12",
+      "time": "00:30",
+      "tz_hr": -4,
+      "lon": -71.55,
+      "lat": 42.333333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2004/01/00"
+      }
+    ]
+  },
+  {
+    "name": "Reeves, Jim",
+    "death": "1964/07/31",
+    "chartData": {
+      "date": "1923/08/20",
+      "time": "22:00",
+      "tz_hr": -6,
+      "lon": -94.06666666666666,
+      "lat": 32.03333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1964/07/31"
+      }
+    ]
+  },
+  {
+    "name": "Gaillard, Félix",
+    "death": "1970/07/10",
+    "chartData": {
+      "date": "1919/11/05",
+      "time": "11:00",
+      "tz_hr": 0,
+      "lon": 2.3333333333333335,
+      "lat": 48.86666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1970/07/10"
+      }
+    ]
+  },
+  {
+    "name": "Burgess, James E.",
+    "death": "2000/04/30",
+    "chartData": {
+      "date": "1943/06/26",
+      "time": "11:13",
+      "tz_hr": -4,
+      "lon": -71.35,
+      "lat": 42.28333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2000/04/30"
+      }
+    ]
+  },
+  {
+    "name": "Paillou, Nelson",
+    "death": "1997/11/17",
+    "chartData": {
+      "date": "1924/01/06",
+      "time": "03:00",
+      "tz_hr": 0,
+      "lon": -0.5666666666666667,
+      "lat": 44.833333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1997/11/17"
+      }
+    ]
+  },
+  {
+    "name": "Priestly, Helen",
+    "death": "1934/04/21",
+    "chartData": {
+      "date": "1925/09/29",
+      "time": "12:30",
+      "tz_hr": 1,
+      "lon": -2.066666666666667,
+      "lat": 57.166666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1934/04/21"
+      }
+    ]
+  },
+  {
+    "name": "Dahmer, Jeffrey",
+    "death": "1994/11/28",
+    "chartData": {
+      "date": "1960/05/21",
+      "time": "16:34",
+      "tz_hr": -5,
+      "lon": -87.9,
+      "lat": 43.03333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1994/11/28"
+      }
+    ]
+  },
+  {
+    "name": "Gos, Jean-Claude",
+    "death": "1993/12/23",
+    "chartData": {
+      "date": "1966/10/31",
+      "time": "12:00",
+      "tz_hr": 1,
+      "lon": 3.3833333333333333,
+      "lat": 50.333333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1993/12/23"
+      }
+    ]
+  },
+  {
+    "name": "Arellano, David",
+    "death": "1927/05/03",
+    "chartData": {
+      "date": "1901/07/29",
+      "time": "15:00",
+      "tz_hr": -4.7122222222222225,
+      "lon": -70.66666666666667,
+      "lat": -33.45
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1927/05/03"
+      }
+    ]
+  },
+  {
+    "name": "Pimentel, Eloá",
+    "death": "2008/10/18",
+    "chartData": {
+      "date": "1993/05/05",
+      "time": "23:40",
+      "tz_hr": -3,
+      "lon": -35.733333333333334,
+      "lat": -9.65
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2008/10/18"
+      }
+    ]
+  },
+  {
+    "name": "Godard, Camille",
+    "death": "1999/09/00",
+    "chartData": {
+      "date": "1993/05/18",
+      "time": "03:35",
+      "tz_hr": 2,
+      "lon": -0.6333333333333333,
+      "lat": 49.016666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1999/09/00"
+      }
+    ]
+  },
+  {
+    "name": "Salamone, Lawrence",
+    "death": "2005/07/23",
+    "chartData": {
+      "date": "1985/11/26",
+      "time": "05:53",
+      "tz_hr": -5,
+      "lon": -71.06666666666666,
+      "lat": 42.36666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2005/07/23"
+      }
+    ]
+  },
+  {
+    "name": "King, Rodney",
+    "death": "2012/06/17",
+    "chartData": {
+      "date": "1965/04/02",
+      "time": "07:00",
+      "tz_hr": -8,
+      "lon": -121.5,
+      "lat": 38.583333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2012/06/17"
+      }
+    ]
+  },
+  {
+    "name": "Macrelli, David",
+    "death": "1996/09/11",
+    "chartData": {
+      "date": "1995/03/03",
+      "time": "12:41",
+      "tz_hr": -5,
+      "lon": -71.06666666666666,
+      "lat": 42.36666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1996/09/11"
+      }
+    ]
+  },
+  {
+    "name": "Anastasia, Albert",
+    "death": "1957/10/25",
+    "chartData": {
+      "date": "1902/09/26",
+      "time": "10:15",
+      "tz_hr": 1,
+      "lon": 15.9,
+      "lat": 38.68333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1957/10/25"
+      }
+    ]
+  },
+  {
+    "name": "Bouguen, Marcel",
+    "death": "1944/03/09",
+    "chartData": {
+      "date": "1920/04/14",
+      "time": "01:15",
+      "tz_hr": 1,
+      "lon": -4.166666666666667,
+      "lat": 48.28333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1944/03/09"
+      }
+    ]
+  },
+  {
+    "name": "Levegh, Pierre",
+    "death": "1955/06/11",
+    "chartData": {
+      "date": "1905/12/22",
+      "time": "04:00",
+      "tz_hr": 0.15555555555555556,
+      "lon": 2.3333333333333335,
+      "lat": 48.86666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1955/06/11"
+      }
+    ]
+  },
+  {
+    "name": "Rocco, Emanuele",
+    "death": "1983/06/02",
+    "chartData": {
+      "date": "1922/08/25",
+      "time": "07:00",
+      "tz_hr": 1,
+      "lon": 12.483333333333333,
+      "lat": 41.9
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1983/06/02"
+      }
+    ]
+  },
+  {
+    "name": "Bustoz, Joaquin Jr.",
+    "death": "2003/08/13",
+    "chartData": {
+      "date": "1939/12/30",
+      "time": "16:30",
+      "tz_hr": -7,
+      "lon": -111.91666666666667,
+      "lat": 33.416666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2003/08/13"
+      }
+    ]
+  },
+  {
+    "name": "Robertson, Bill",
+    "death": "1994/09/00",
+    "chartData": {
+      "date": "1962/10/17",
+      "time": "00:48",
+      "tz_hr": -6,
+      "lon": -87.71666666666667,
+      "lat": 43.75
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1994/09/00"
+      }
+    ]
+  },
+  {
+    "name": "Momo, Alessandro",
+    "death": "1974/11/19",
+    "chartData": {
+      "date": "1956/11/26",
+      "time": "12:50",
+      "tz_hr": 1,
+      "lon": 12.483333333333333,
+      "lat": 41.9
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1974/11/19"
+      }
+    ]
+  },
+  {
+    "name": "Ravellette, Marty",
+    "death": "2007/11/12",
+    "chartData": {
+      "date": "1939/12/18",
+      "time": "02:00",
+      "tz_hr": -6,
+      "lon": -87.3,
+      "lat": 40.766666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2007/11/12"
+      }
+    ]
+  },
+  {
+    "name": "Pantani, Marco",
+    "death": "2004/02/14",
+    "chartData": {
+      "date": "1970/01/13",
+      "time": "11:50",
+      "tz_hr": 1,
+      "lon": 12.25,
+      "lat": 44.13333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2004/02/14"
+      }
+    ]
+  },
+  {
+    "name": "Parny, Charles-André",
+    "death": "1994/12/09",
+    "chartData": {
+      "date": "1982/09/10",
+      "time": "08:50",
+      "tz_hr": 2,
+      "lon": 1.4833333333333334,
+      "lat": 49.083333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1994/12/09"
+      }
+    ]
+  },
+  {
+    "name": "Herlihy, Melissa",
+    "death": "1994/06/29",
+    "chartData": {
+      "date": "1976/03/27",
+      "time": "18:06",
+      "tz_hr": -5,
+      "lon": -71.13333333333334,
+      "lat": 42.45
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1994/06/29"
+      }
+    ]
+  },
+  {
+    "name": "Stuart, Richard",
+    "death": "1995/02/12",
+    "chartData": {
+      "date": "1969/07/12",
+      "time": "11:55",
+      "tz_hr": -4,
+      "lon": -71.1,
+      "lat": 42.38333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1995/02/12"
+      }
+    ]
+  },
+  {
+    "name": "Horton, Johnny",
+    "death": "1960/11/05",
+    "chartData": {
+      "date": "1925/04/30",
+      "time": "19:25",
+      "tz_hr": -8,
+      "lon": -118.25,
+      "lat": 34.05
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1960/11/05"
+      }
+    ]
+  },
+  {
+    "name": "Plésel, Rémi Emmanuel",
+    "death": "2014/12/28",
+    "chartData": {
+      "date": "1968/10/27",
+      "time": "19:05",
+      "tz_hr": -4,
+      "lon": -61.083333333333336,
+      "lat": 14.6
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2014/12/28"
+      }
+    ]
+  },
+  {
+    "name": "Taton, Typhaine",
+    "death": "2009/06/00",
+    "chartData": {
+      "date": "2004/04/06",
+      "time": "18:30",
+      "tz_hr": 2,
+      "lon": 3.066666666666667,
+      "lat": 50.63333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2009/06/00"
+      }
+    ]
+  },
+  {
+    "name": "Lawless, Martin",
+    "death": "1986/12/23",
+    "chartData": {
+      "date": "1967/08/27",
+      "time": "09:20",
+      "tz_hr": -4,
+      "lon": -71.06666666666666,
+      "lat": 42.36666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1986/12/23"
+      }
+    ]
+  },
+  {
+    "name": "Rhoads, Randy",
+    "death": "1982/03/19",
+    "chartData": {
+      "date": "1956/12/06",
+      "time": "19:16",
+      "tz_hr": -8,
+      "lon": -118.48333333333333,
+      "lat": 34.016666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1982/03/19"
+      }
+    ]
+  },
+  {
+    "name": "Luz del Fuego",
+    "death": "1967/07/19",
+    "chartData": {
+      "date": "1917/01/23",
+      "time": "04:00",
+      "tz_hr": -3,
+      "lon": -41.1,
+      "lat": -20.833333333333332
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1967/07/19"
+      }
+    ]
+  },
+  {
+    "name": "Kotz, Nick",
+    "death": "2020/04/26",
+    "chartData": {
+      "date": "1932/09/16",
+      "time": "02:38",
+      "tz_hr": -6,
+      "lon": -98.5,
+      "lat": 29.416666666666668
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2020/04/26"
+      }
+    ]
+  },
+  {
+    "name": "Giraud, Géraldine",
+    "death": "2004/11/01",
+    "chartData": {
+      "date": "1968/05/17",
+      "time": "01:45",
+      "tz_hr": 1,
+      "lon": 3.283333333333333,
+      "lat": 48.2
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2004/11/01"
+      }
+    ]
+  },
+  {
+    "name": "Cassidy, James",
+    "death": "2003/05/15",
+    "chartData": {
+      "date": "1981/07/04",
+      "time": "13:20",
+      "tz_hr": -4,
+      "lon": -71.8,
+      "lat": 42.266666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2003/05/15"
+      }
+    ]
+  },
+  {
+    "name": "Bricq, Nicole",
+    "death": "2017/08/06",
+    "chartData": {
+      "date": "1947/06/10",
+      "time": "21:00",
+      "tz_hr": 1,
+      "lon": 0.38333333333333336,
+      "lat": 45.75
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2017/08/06"
+      }
+    ]
+  },
+  {
+    "name": "Ancion, Sébastien",
+    "death": "1999/11/01",
+    "chartData": {
+      "date": "1974/02/03",
+      "time": "12:35",
+      "tz_hr": 1,
+      "lon": 5.566666666666666,
+      "lat": 50.63333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1999/11/01"
+      }
+    ]
+  },
+  {
+    "name": "Montet, Pierre",
+    "death": "1945/08/30",
+    "chartData": {
+      "date": "1914/03/14",
+      "time": "11:30",
+      "tz_hr": 0,
+      "lon": 4.4,
+      "lat": 45.43333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1945/08/30"
+      }
+    ]
+  },
+  {
+    "name": "Mazeron, Renaud",
+    "death": "2016/12/29",
+    "chartData": {
+      "date": "1977/08/10",
+      "time": "06:30",
+      "tz_hr": 2,
+      "lon": 2.3166666666666664,
+      "lat": 48.81666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2016/12/29"
+      }
+    ]
+  },
+  {
+    "name": "Brown, Mathew",
+    "death": "2005/10/02",
+    "chartData": {
+      "date": "1991/03/01",
+      "time": "21:41",
+      "tz_hr": -5,
+      "lon": -70.3,
+      "lat": 41.7
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2005/10/02"
+      }
+    ]
+  },
+  {
+    "name": "Fonteyne, Dirk",
+    "death": "1997/07/26",
+    "chartData": {
+      "date": "1953/08/20",
+      "time": "21:30",
+      "tz_hr": 1,
+      "lon": 2.9166666666666665,
+      "lat": 51.21666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1997/07/26"
+      }
+    ]
+  },
+  {
+    "name": "Teene, Terry",
+    "death": "2012/03/09",
+    "chartData": {
+      "date": "1942/02/06",
+      "time": "17:34",
+      "tz_hr": -6,
+      "lon": -94.16666666666667,
+      "lat": 42.5
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2012/03/09"
+      }
+    ]
+  },
+  {
+    "name": "Castillo Páez, Ernesto",
+    "death": "1990/10/21",
+    "chartData": {
+      "date": "1968/06/03",
+      "time": "20:25",
+      "tz_hr": -5,
+      "lon": -77.05,
+      "lat": -12.05
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1990/10/21"
+      }
+    ]
+  },
+  {
+    "name": "Hinckley, Bruce",
+    "death": "1992/07/04",
+    "chartData": {
+      "date": "1959/04/13",
+      "time": "13:25",
+      "tz_hr": -5,
+      "lon": -71.06666666666666,
+      "lat": 42.36666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1992/07/04"
+      }
+    ]
+  },
+  {
+    "name": "Audry, Jacqueline",
+    "death": "1977/06/22",
+    "chartData": {
+      "date": "1908/09/25",
+      "time": "06:00",
+      "tz_hr": 0.15555555555555556,
+      "lon": 4.8,
+      "lat": 44.13333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1977/06/22"
+      }
+    ]
+  },
+  {
+    "name": "Itthuralde, Marc",
+    "death": "1971/03/15",
+    "chartData": {
+      "date": "1971/03/11",
+      "time": "01:25",
+      "tz_hr": 1,
+      "lon": 2.3833333333333333,
+      "lat": 49.0
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1971/03/15"
+      }
+    ]
+  },
+  {
+    "name": "Southerland, Pug",
+    "death": "1949/10/12",
+    "chartData": {
+      "date": "1911/10/28",
+      "time": "14:28",
+      "tz_hr": -5,
+      "lon": -75.26666666666667,
+      "lat": 40.016666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1949/10/12"
+      }
+    ]
+  },
+  {
+    "name": "Carl, Marion E.",
+    "death": "1998/06/28",
+    "chartData": {
+      "date": "1915/11/01",
+      "time": "20:15",
+      "tz_hr": -8,
+      "lon": -122.8,
+      "lat": 45.18333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1998/06/28"
+      }
+    ]
+  },
+  {
+    "name": "Gitton, Marcel",
+    "death": "1941/09/05",
+    "chartData": {
+      "date": "1903/04/20",
+      "time": "05:00",
+      "tz_hr": 0.15555555555555556,
+      "lon": 2.1333333333333333,
+      "lat": 48.8
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1941/09/05"
+      }
+    ]
+  },
+  {
+    "name": "Vatine, Paul",
+    "death": "1999/10/21",
+    "chartData": {
+      "date": "1957/07/20",
+      "time": "01:50",
+      "tz_hr": 1,
+      "lon": 0.13333333333333333,
+      "lat": 49.5
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1999/10/21"
+      }
+    ]
+  },
+  {
+    "name": "Brode, Beth",
+    "death": "1992/11/18",
+    "chartData": {
+      "date": "1977/10/10",
+      "time": "11:12",
+      "tz_hr": -4,
+      "lon": -71.08333333333333,
+      "lat": 42.78333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1992/11/18"
+      }
+    ]
+  },
+  {
+    "name": "Ballarin, Dino",
+    "death": "1949/05/04",
+    "chartData": {
+      "date": "1925/09/23",
+      "time": "07:00",
+      "tz_hr": 1,
+      "lon": 12.283333333333333,
+      "lat": 45.21666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1949/05/04"
+      }
+    ]
+  },
+  {
+    "name": "Maso, Antonio",
+    "death": "1991/04/18",
+    "chartData": {
+      "date": "1935/12/12",
+      "time": "16:10",
+      "tz_hr": 1,
+      "lon": 11.25,
+      "lat": 45.5
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1991/04/18"
+      }
+    ]
+  },
+  {
+    "name": "Sullavan, Margaret",
+    "death": "1960/01/01",
+    "chartData": {
+      "date": "1909/04/13",
+      "time": "12:30",
+      "tz_hr": -5,
+      "lon": -76.28333333333333,
+      "lat": 36.85
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1960/01/01"
+      }
+    ]
+  },
+  {
+    "name": "Le Pera, Alfredo",
+    "death": "1935/06/24",
+    "chartData": {
+      "date": "1900/06/07",
+      "time": "22:30",
+      "tz_hr": -3.1077777777777778,
+      "lon": -46.61666666666667,
+      "lat": -23.55
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1935/06/24"
+      }
+    ]
+  },
+  {
+    "name": "Schlosberg, Carol",
+    "death": "1998/03/29",
+    "chartData": {
+      "date": "1957/06/14",
+      "time": "03:42",
+      "tz_hr": -4,
+      "lon": -71.21666666666667,
+      "lat": 42.333333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1998/03/29"
+      }
+    ]
+  },
+  {
+    "name": "Lowenstein, Allard",
+    "death": "1980/03/14",
+    "chartData": {
+      "date": "1929/01/16",
+      "time": "15:22",
+      "tz_hr": -5,
+      "lon": -74.16666666666667,
+      "lat": 40.733333333333334
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1980/03/14"
+      }
+    ]
+  },
+  {
+    "name": "Benton, Mark R.",
+    "death": "1992/07/03",
+    "chartData": {
+      "date": "1969/07/25",
+      "time": "00:01",
+      "tz_hr": -4,
+      "lon": -71.1,
+      "lat": 42.13333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1992/07/03"
+      }
+    ]
+  },
+  {
+    "name": "Verlaque, Frank",
+    "death": "1994/09/02",
+    "chartData": {
+      "date": "1972/06/19",
+      "time": "07:30",
+      "tz_hr": 1,
+      "lon": 5.4,
+      "lat": 43.3
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1994/09/02"
+      }
+    ]
+  },
+  {
+    "name": "Caze, Christophe",
+    "death": "1996/03/29",
+    "chartData": {
+      "date": "1969/10/22",
+      "time": "20:10",
+      "tz_hr": 1,
+      "lon": 3.2333333333333334,
+      "lat": 50.166666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1996/03/29"
+      }
+    ]
+  },
+  {
+    "name": "Bongiorni, Émile",
+    "death": "1949/05/04",
+    "chartData": {
+      "date": "1921/03/19",
+      "time": "04:00",
+      "tz_hr": 1,
+      "lon": 2.25,
+      "lat": 48.833333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1949/05/04"
+      }
+    ]
+  },
+  {
+    "name": "Cox, David Vernon",
+    "death": "1994/01/00",
+    "chartData": {
+      "date": "1966/11/27",
+      "time": "17:41",
+      "tz_hr": -5,
+      "lon": -71.06666666666666,
+      "lat": 42.36666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1994/01/00"
+      }
+    ]
+  },
+  {
+    "name": "Godard, Marius",
+    "death": "1999/09/00",
+    "chartData": {
+      "date": "1994/05/09",
+      "time": "09:30",
+      "tz_hr": 2,
+      "lon": -0.6333333333333333,
+      "lat": 49.016666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1999/09/00"
+      }
+    ]
+  },
+  {
+    "name": "Messiaen, Olivier",
+    "death": "1992/04/27",
+    "chartData": {
+      "date": "1908/12/10",
+      "time": "23:00",
+      "tz_hr": 0.15555555555555556,
+      "lon": 4.816666666666666,
+      "lat": 43.95
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1992/04/27"
+      }
+    ]
+  },
+  {
+    "name": "Gossage, Amelia",
+    "death": "1975/02/13",
+    "chartData": {
+      "date": "1956/02/09",
+      "time": "19:56",
+      "tz_hr": -8,
+      "lon": -122.41666666666667,
+      "lat": 37.78333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1975/02/13"
+      }
+    ]
+  },
+  {
+    "name": "Hammer, Kristina",
+    "death": "1993/10/31",
+    "chartData": {
+      "date": "1979/11/02",
+      "time": "21:11",
+      "tz_hr": -5,
+      "lon": -70.93333333333334,
+      "lat": 42.21666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1993/10/31"
+      }
+    ]
+  },
+  {
+    "name": "Kerr, David",
+    "death": "1996/03/13",
+    "chartData": {
+      "date": "1990/11/28",
+      "time": "19:52",
+      "tz_hr": 0,
+      "lon": -4.25,
+      "lat": 55.88333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1996/03/13"
+      }
+    ]
+  },
+  {
+    "name": "Moreno, José Elías",
+    "death": "1969/07/15",
+    "chartData": {
+      "date": "1910/11/12",
+      "time": "06:00",
+      "tz_hr": -6.797777777777778,
+      "lon": -101.96666666666667,
+      "lat": 21.1
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1969/07/15"
+      }
+    ]
+  },
+  {
+    "name": "Allin, GG",
+    "death": "1993/06/28",
+    "chartData": {
+      "date": "1956/08/29",
+      "time": "07:40",
+      "tz_hr": -4,
+      "lon": -71.56666666666666,
+      "lat": 44.483333333333334
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1993/06/28"
+      }
+    ]
+  },
+  {
+    "name": "Troadec, Pascal",
+    "death": "2017/02/17",
+    "chartData": {
+      "date": "1967/09/12",
+      "time": "22:15",
+      "tz_hr": 1,
+      "lon": -4.483333333333333,
+      "lat": 48.4
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2017/02/17"
+      }
+    ]
+  },
+  {
+    "name": "Infante, Pedro",
+    "death": "1957/04/15",
+    "chartData": {
+      "date": "1917/11/18",
+      "time": "02:30",
+      "tz_hr": -7.094444444444444,
+      "lon": -106.41666666666667,
+      "lat": 23.216666666666665
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1957/04/15"
+      }
+    ]
+  },
+  {
+    "name": "Azar, Geneva",
+    "death": "1988/11/17",
+    "chartData": {
+      "date": "1988/08/03",
+      "time": "09:09",
+      "tz_hr": -4,
+      "lon": -71.2,
+      "lat": 42.35
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1988/11/17"
+      }
+    ]
+  },
+  {
+    "name": "Jesus Rojas",
+    "death": "1991/04/11",
+    "chartData": {
+      "date": "1950/06/15",
+      "time": "22:00",
+      "tz_hr": -6,
+      "lon": -86.28333333333333,
+      "lat": 12.15
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1991/04/11"
+      }
+    ]
+  },
+  {
+    "name": "Ferioli, Gigliola",
+    "death": "1991/12/06",
+    "chartData": {
+      "date": "1950/01/27",
+      "time": "07:00",
+      "tz_hr": 1,
+      "lon": 11.583333333333334,
+      "lat": 45.18333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1991/12/06"
+      }
+    ]
+  },
+  {
+    "name": "Webb, Lou",
+    "death": "1940/09/02",
+    "chartData": {
+      "date": "1911/09/06",
+      "time": "04:00",
+      "tz_hr": -6,
+      "lon": -83.91666666666667,
+      "lat": 35.96666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1940/09/02"
+      }
+    ]
+  },
+  {
+    "name": "Boudiaf, Mohamed",
+    "death": "1992/06/29",
+    "chartData": {
+      "date": "1919/06/23",
+      "time": "23:59",
+      "tz_hr": 1,
+      "lon": 4.533333333333333,
+      "lat": 35.7
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1992/06/29"
+      }
+    ]
+  },
+  {
+    "name": "Abbott, Jennifer",
+    "death": "1997/03/08",
+    "chartData": {
+      "date": "1971/02/28",
+      "time": "05:59",
+      "tz_hr": -5,
+      "lon": -72.23333333333333,
+      "lat": 42.266666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1997/03/08"
+      }
+    ]
+  },
+  {
+    "name": "Krief, Bernard",
+    "death": "1996/06/27",
+    "chartData": {
+      "date": "1931/10/26",
+      "time": "02:00",
+      "tz_hr": 0,
+      "lon": 3.05,
+      "lat": 36.78333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1996/06/27"
+      }
+    ]
+  },
+  {
+    "name": "Baginski, Bodo",
+    "death": "2012/06/05",
+    "chartData": {
+      "date": "1952/04/10",
+      "time": "18:45",
+      "tz_hr": 1,
+      "lon": 8.466666666666667,
+      "lat": 50.18333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2012/06/05"
+      }
+    ]
+  },
+  {
+    "name": "Santo, Audrey",
+    "death": "2007/04/14",
+    "chartData": {
+      "date": "1983/12/19",
+      "time": "22:52",
+      "tz_hr": -5,
+      "lon": -71.8,
+      "lat": 42.266666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2007/04/14"
+      }
+    ]
+  },
+  {
+    "name": "Cousteau, Philippe Pierre",
+    "death": "1979/06/28",
+    "chartData": {
+      "date": "1940/12/30",
+      "time": "17:50",
+      "tz_hr": 1,
+      "lon": 5.933333333333334,
+      "lat": 43.11666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1979/06/28"
+      }
+    ]
+  },
+  {
+    "name": "Scobee, Francis R.",
+    "death": "1986/01/28",
+    "chartData": {
+      "date": "1939/05/19",
+      "time": "10:40",
+      "tz_hr": -8,
+      "lon": -120.93333333333334,
+      "lat": 47.2
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1986/01/28"
+      }
+    ]
+  },
+  {
+    "name": "Paust, Anne Orderud",
+    "death": "1999/05/22",
+    "chartData": {
+      "date": "1952/04/03",
+      "time": "02:15",
+      "tz_hr": 1,
+      "lon": 10.75,
+      "lat": 59.916666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1999/05/22"
+      }
+    ]
+  },
+  {
+    "name": "Darrieux, Danielle",
+    "death": "2017/10/17",
+    "chartData": {
+      "date": "1917/05/01",
+      "time": "21:00",
+      "tz_hr": 1,
+      "lon": -0.5666666666666667,
+      "lat": 44.833333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2017/10/17"
+      }
+    ]
+  },
+  {
+    "name": "Gazzotti, Eugenio",
+    "death": "1987/05/09",
+    "chartData": {
+      "date": "1914/02/18",
+      "time": "15:00",
+      "tz_hr": 1,
+      "lon": 10.333333333333334,
+      "lat": 44.8
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1987/05/09"
+      }
+    ]
+  },
+  {
+    "name": "Guggenheim, Pegeen Vail",
+    "death": "1967/03/01",
+    "chartData": {
+      "date": "1925/08/18",
+      "time": "23:30",
+      "tz_hr": 1,
+      "lon": 6.633333333333333,
+      "lat": 46.516666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1967/03/01"
+      }
+    ]
+  },
+  {
+    "name": "Moustache",
+    "death": "1987/03/25",
+    "chartData": {
+      "date": "1929/02/14",
+      "time": "01:40",
+      "tz_hr": 0,
+      "lon": 2.3333333333333335,
+      "lat": 48.86666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1987/03/25"
+      }
+    ]
+  },
+  {
+    "name": "Stratten, Dorothy",
+    "death": "1980/08/14",
+    "chartData": {
+      "date": "1960/02/28",
+      "time": "22:58",
+      "tz_hr": -8,
+      "lon": -123.11666666666666,
+      "lat": 49.266666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1980/08/14"
+      }
+    ]
+  },
+  {
+    "name": "Perry, Matthew",
+    "death": "2023/10/28",
+    "chartData": {
+      "date": "1969/08/19",
+      "time": "04:47",
+      "tz_hr": -4,
+      "lon": -73.11666666666666,
+      "lat": 42.7
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2023/10/28"
+      }
+    ]
+  },
+  {
+    "name": "Schwarzenbach, Annemarie",
+    "death": "1942/11/15",
+    "chartData": {
+      "date": "1908/05/23",
+      "time": "17:40",
+      "tz_hr": 1,
+      "lon": 8.533333333333333,
+      "lat": 47.38333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1942/11/15"
+      }
+    ]
+  },
+  {
+    "name": "Kropp, Göran",
+    "death": "2002/09/30",
+    "chartData": {
+      "date": "1966/12/11",
+      "time": "20:42",
+      "tz_hr": 1,
+      "lon": 16.5,
+      "lat": 59.36666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2002/09/30"
+      }
+    ]
+  },
+  {
+    "name": "Müller, Marius",
+    "death": "1999/03/14",
+    "chartData": {
+      "date": "1958/08/20",
+      "time": "15:40",
+      "tz_hr": 1,
+      "lon": 10.75,
+      "lat": 59.916666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1999/03/14"
+      }
+    ]
+  },
+  {
+    "name": "Gallo, Julio",
+    "death": "1993/05/02",
+    "chartData": {
+      "date": "1910/03/21",
+      "time": "14:00",
+      "tz_hr": -8,
+      "lon": -122.26666666666667,
+      "lat": 37.8
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1993/05/02"
+      }
+    ]
+  },
+  {
+    "name": "Moore, Lonnie R.",
+    "death": "1956/01/10",
+    "chartData": {
+      "date": "1920/06/12",
+      "time": "03:00",
+      "tz_hr": -6,
+      "lon": -98.58333333333333,
+      "lat": 33.1
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1956/01/10"
+      }
+    ]
+  },
+  {
+    "name": "Cabot, Chuck",
+    "death": "2007/12/27",
+    "chartData": {
+      "date": "1915/05/16",
+      "time": "08:00",
+      "tz_hr": -6.692222222222222,
+      "lon": -100.38333333333334,
+      "lat": 20.6
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2007/12/27"
+      }
+    ]
+  },
+  {
+    "name": "Zazzo, René",
+    "death": "1995/09/20",
+    "chartData": {
+      "date": "1910/10/27",
+      "time": "20:45",
+      "tz_hr": 0.15555555555555556,
+      "lon": 2.3333333333333335,
+      "lat": 48.86666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1995/09/20"
+      }
+    ]
+  },
+  {
+    "name": "Dehaene, Jean Luc",
+    "death": "2014/05/15",
+    "chartData": {
+      "date": "1940/08/07",
+      "time": "12:00",
+      "tz_hr": 1,
+      "lon": 3.8833333333333333,
+      "lat": 43.6
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2014/05/15"
+      }
+    ]
+  },
+  {
+    "name": "Kelly, Grace",
+    "death": "1982/09/13",
+    "chartData": {
+      "date": "1929/11/12",
+      "time": "05:31",
+      "tz_hr": -5,
+      "lon": -75.16666666666667,
+      "lat": 39.95
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1982/09/13"
+      }
+    ]
+  },
+  {
+    "name": "Dombroski, Amy",
+    "death": "2013/10/03",
+    "chartData": {
+      "date": "1987/09/09",
+      "time": "20:49",
+      "tz_hr": -4,
+      "lon": -73.21666666666667,
+      "lat": 44.483333333333334
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2013/10/03"
+      }
+    ]
+  },
+  {
+    "name": "Benoit, Melissa",
+    "death": "1990/09/15",
+    "chartData": {
+      "date": "1977/08/29",
+      "time": "15:12",
+      "tz_hr": -4,
+      "lon": -71.06666666666666,
+      "lat": 42.36666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1990/09/15"
+      }
+    ]
+  },
+  {
+    "name": "McEvoy, Christopher",
+    "death": "2000/12/16",
+    "chartData": {
+      "date": "1976/02/09",
+      "time": "17:48",
+      "tz_hr": -5,
+      "lon": -71.1,
+      "lat": 42.13333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2000/12/16"
+      }
+    ]
+  },
+  {
+    "name": "Kirk, Justin",
+    "death": "2005/03/08",
+    "chartData": {
+      "date": "2001/05/17",
+      "time": "08:46",
+      "tz_hr": -4,
+      "lon": -70.66666666666667,
+      "lat": 41.96666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2005/03/08"
+      }
+    ]
+  },
+  {
+    "name": "Moyano, María Elena",
+    "death": "1992/02/15",
+    "chartData": {
+      "date": "1958/11/24",
+      "time": "19:30",
+      "tz_hr": -5,
+      "lon": -77.03333333333333,
+      "lat": -12.15
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1992/02/15"
+      }
+    ]
+  },
+  {
+    "name": "Casenobe, Antoine",
+    "death": "1943/02/26",
+    "chartData": {
+      "date": "1914/11/02",
+      "time": "03:00",
+      "tz_hr": 0,
+      "lon": 2.95,
+      "lat": 42.65
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1943/02/26"
+      }
+    ]
+  },
+  {
+    "name": "Warner, Malcolm-Jamal",
+    "death": "2025/07/20",
+    "chartData": {
+      "date": "1970/08/18",
+      "time": "02:43",
+      "tz_hr": -4,
+      "lon": -74.08333333333333,
+      "lat": 40.733333333333334
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2025/07/20"
+      }
+    ]
+  },
+  {
+    "name": "Williams, Venus",
+    "death": "2003/09/14",
+    "chartData": {
+      "date": "1980/06/17",
+      "time": "14:12",
+      "tz_hr": -7,
+      "lon": -118.21666666666667,
+      "lat": 33.93333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2003/09/14"
+      }
+    ]
+  },
+  {
+    "name": "Twins, Gineste.",
+    "death": "2014/07/24",
+    "chartData": {
+      "date": "1995/07/05",
+      "time": "10:20",
+      "tz_hr": 2,
+      "lon": 1.8666666666666667,
+      "lat": 46.166666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2014/07/24"
+      }
+    ]
+  },
+  {
+    "name": "Verwoerd, Hendrik",
+    "death": "1966/09/06",
+    "chartData": {
+      "date": "1901/09/08",
+      "time": "16:00",
+      "tz_hr": 0.32555555555555554,
+      "lon": 4.9,
+      "lat": 52.36666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1966/09/06"
+      }
+    ]
+  },
+  {
+    "name": "Méric, Clément",
+    "death": "2013/06/05",
+    "chartData": {
+      "date": "1994/11/30",
+      "time": "11:20",
+      "tz_hr": 1,
+      "lon": -4.483333333333333,
+      "lat": 48.4
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2013/06/05"
+      }
+    ]
+  },
+  {
+    "name": "Tower, John Goodwin",
+    "death": "1991/04/05",
+    "chartData": {
+      "date": "1925/09/29",
+      "time": "13:35",
+      "tz_hr": -6,
+      "lon": -95.36666666666666,
+      "lat": 29.766666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1991/04/05"
+      }
+    ]
+  },
+  {
+    "name": "Wessel, Horst",
+    "death": "1930/02/23",
+    "chartData": {
+      "date": "1907/10/09",
+      "time": "19:30",
+      "tz_hr": 1,
+      "lon": 8.516666666666667,
+      "lat": 52.016666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1930/02/23"
+      }
+    ]
+  },
+  {
+    "name": "Garuti, Shirley",
+    "death": "2004/02/17",
+    "chartData": {
+      "date": "1954/05/20",
+      "time": "19:56",
+      "tz_hr": -4,
+      "lon": -70.66666666666667,
+      "lat": 41.96666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2004/02/17"
+      }
+    ]
+  },
+  {
+    "name": "Gandhi, Sanjay",
+    "death": "1980/06/00",
+    "chartData": {
+      "date": "1946/12/14",
+      "time": "09:27",
+      "tz_hr": 5.5,
+      "lon": 77.21666666666667,
+      "lat": 28.666666666666668
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1980/06/00"
+      }
+    ]
+  },
+  {
+    "name": "Paiva, Rubens",
+    "death": "1971/01/21",
+    "chartData": {
+      "date": "1929/12/26",
+      "time": "22:20",
+      "tz_hr": -3,
+      "lon": -46.333333333333336,
+      "lat": -23.95
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1971/01/21"
+      }
+    ]
+  },
+  {
+    "name": "Laurain, Laetitia",
+    "death": "1995/01/26",
+    "chartData": {
+      "date": "1975/06/03",
+      "time": "22:00",
+      "tz_hr": 1,
+      "lon": 5.9,
+      "lat": 48.68333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1995/01/26"
+      }
+    ]
+  },
+  {
+    "name": "Tedford, Richard H.",
+    "death": "2011/07/15",
+    "chartData": {
+      "date": "1929/04/25",
+      "time": "12:55",
+      "tz_hr": -8,
+      "lon": -118.25,
+      "lat": 34.05
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2011/07/15"
+      }
+    ]
+  },
+  {
+    "name": "Paquet, Ingrid",
+    "death": "1996/07/17",
+    "chartData": {
+      "date": "1978/01/29",
+      "time": "22:55",
+      "tz_hr": 1,
+      "lon": 2.3333333333333335,
+      "lat": 48.86666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1996/07/17"
+      }
+    ]
+  },
+  {
+    "name": "Mermoz, Jean",
+    "death": "1936/12/07",
+    "chartData": {
+      "date": "1901/12/09",
+      "time": "02:00",
+      "tz_hr": 0.15555555555555556,
+      "lon": 4.2,
+      "lat": 49.833333333333336
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1936/12/07"
+      }
+    ]
+  },
+  {
+    "name": "Bartsch, Jürgen",
+    "death": "1976/04/28",
+    "chartData": {
+      "date": "1946/11/06",
+      "time": "09:50",
+      "tz_hr": 1,
+      "lon": 7.016666666666667,
+      "lat": 51.46666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1976/04/28"
+      }
+    ]
+  },
+  {
+    "name": "Roccia, Nadia",
+    "death": "1998/03/14",
+    "chartData": {
+      "date": "1979/07/31",
+      "time": "12:25",
+      "tz_hr": 2,
+      "lon": 15.566666666666666,
+      "lat": 41.45
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1998/03/14"
+      }
+    ]
+  },
+  {
+    "name": "Burrell, Jeff",
+    "death": "1994/10/31",
+    "chartData": {
+      "date": "1971/12/27",
+      "time": "00:51",
+      "tz_hr": -5,
+      "lon": -70.88333333333334,
+      "lat": 42.516666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1994/10/31"
+      }
+    ]
+  },
+  {
+    "name": "Chapin, Harry",
+    "death": "1981/07/16",
+    "chartData": {
+      "date": "1942/12/07",
+      "time": "11:22",
+      "tz_hr": -4,
+      "lon": -73.98333333333333,
+      "lat": 40.766666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1981/07/16"
+      }
+    ]
+  },
+  {
+    "name": "Manfredi, Rose",
+    "death": "2000/12/26",
+    "chartData": {
+      "date": "1951/12/27",
+      "time": "20:07",
+      "tz_hr": -5,
+      "lon": -71.1,
+      "lat": 42.36666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2000/12/26"
+      }
+    ]
+  },
+  {
+    "name": "Cerdan, Marcel",
+    "death": "1949/10/28",
+    "chartData": {
+      "date": "1916/07/22",
+      "time": "21:00",
+      "tz_hr": 1,
+      "lon": -0.16666666666666666,
+      "lat": 35.21666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1949/10/28"
+      }
+    ]
+  },
+  {
+    "name": "Bonnafous, Laurence",
+    "death": "1992/05/13",
+    "chartData": {
+      "date": "1978/08/08",
+      "time": "10:45",
+      "tz_hr": 2,
+      "lon": 1.4333333333333333,
+      "lat": 43.6
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1992/05/13"
+      }
+    ]
+  },
+  {
+    "name": "Carranza, Emilio",
+    "death": "1928/07/12",
+    "chartData": {
+      "date": "1905/12/09",
+      "time": "23:30",
+      "tz_hr": -6.731111111111112,
+      "lon": -100.96666666666667,
+      "lat": 25.55
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1928/07/12"
+      }
+    ]
+  },
+  {
+    "name": "Galli, Niccolo",
+    "death": "2001/02/09",
+    "chartData": {
+      "date": "1983/05/22",
+      "time": "02:41",
+      "tz_hr": 2,
+      "lon": 11.25,
+      "lat": 43.766666666666666
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2001/02/09"
+      }
+    ]
+  },
+  {
+    "name": "Oms, Marcel",
+    "death": "1993/07/22",
+    "chartData": {
+      "date": "1931/12/16",
+      "time": "14:00",
+      "tz_hr": 0,
+      "lon": 2.8833333333333333,
+      "lat": 42.68333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1993/07/22"
+      }
+    ]
+  },
+  {
+    "name": "Bean, Orson",
+    "death": "2020/02/07",
+    "chartData": {
+      "date": "1928/07/22",
+      "time": "08:00",
+      "tz_hr": -5,
+      "lon": -73.21666666666667,
+      "lat": 44.483333333333334
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2020/02/07"
+      }
+    ]
+  },
+  {
+    "name": "Cevert, François",
+    "death": "1973/10/06",
+    "chartData": {
+      "date": "1944/02/25",
+      "time": "04:00",
+      "tz_hr": 1,
+      "lon": 2.3333333333333335,
+      "lat": 48.86666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1973/10/06"
+      }
+    ]
+  },
+  {
+    "name": "Lindbergh III, Charles",
+    "death": "1932/03/01",
+    "chartData": {
+      "date": "1930/06/22",
+      "time": "14:10",
+      "tz_hr": -4,
+      "lon": -73.96666666666667,
+      "lat": 40.9
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1932/03/01"
+      }
+    ]
+  },
+  {
+    "name": "Bithorn, Hiram",
+    "death": "1951/12/29",
+    "chartData": {
+      "date": "1916/03/18",
+      "time": "06:00",
+      "tz_hr": -4,
+      "lon": -66.1,
+      "lat": 18.466666666666665
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1951/12/29"
+      }
+    ]
+  },
+  {
+    "name": "Rodrigues-Nunes, Joelle",
+    "death": "1988/07/13",
+    "chartData": {
+      "date": "1957/09/16",
+      "time": "06:15",
+      "tz_hr": 1,
+      "lon": 0.7333333333333333,
+      "lat": 43.11666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1988/07/13"
+      }
+    ]
+  },
+  {
+    "name": "Van Coile, Albert",
+    "death": "1927/04/04",
+    "chartData": {
+      "date": "1900/03/27",
+      "time": "22:00",
+      "tz_hr": 0,
+      "lon": 3.2333333333333334,
+      "lat": 51.21666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1927/04/04"
+      }
+    ]
+  },
+  {
+    "name": "Mauduit, Chantal",
+    "death": "1998/05/00",
+    "chartData": {
+      "date": "1960/09/11",
+      "time": "17:30",
+      "tz_hr": 1,
+      "lon": 5.933333333333334,
+      "lat": 45.56666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1998/05/00"
+      }
+    ]
+  },
+  {
+    "name": "Burton, Cliff",
+    "death": "1986/09/27",
+    "chartData": {
+      "date": "1962/02/10",
+      "time": "21:38",
+      "tz_hr": -8,
+      "lon": -122.08333333333333,
+      "lat": 37.7
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1986/09/27"
+      }
+    ]
+  },
+  {
+    "name": "Dufourmantelle, Anne",
+    "death": "2017/07/21",
+    "chartData": {
+      "date": "1964/03/20",
+      "time": "03:10",
+      "tz_hr": 1,
+      "lon": 2.3166666666666664,
+      "lat": 48.86666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2017/07/21"
+      }
+    ]
+  },
+  {
+    "name": "Greenlaw, Debra",
+    "death": "1988/07/00",
+    "chartData": {
+      "date": "1953/08/16",
+      "time": "02:32",
+      "tz_hr": -4,
+      "lon": -70.88333333333334,
+      "lat": 42.81666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1988/07/00"
+      }
+    ]
+  },
+  {
+    "name": "Boxberger, Jacky",
+    "death": "2001/08/09",
+    "chartData": {
+      "date": "1949/04/16",
+      "time": "18:30",
+      "tz_hr": 1,
+      "lon": 6.4,
+      "lat": 48.3
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2001/08/09"
+      }
+    ]
+  },
+  {
+    "name": "Soltysik, Pat",
+    "death": "1974/05/17",
+    "chartData": {
+      "date": "1950/05/17",
+      "time": "09:30",
+      "tz_hr": -7,
+      "lon": -119.7,
+      "lat": 34.416666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1974/05/17"
+      }
+    ]
+  },
+  {
+    "name": "Crolet, Pierre",
+    "death": "1992/07/26",
+    "chartData": {
+      "date": "1926/10/05",
+      "time": "23:00",
+      "tz_hr": 0,
+      "lon": 5.75,
+      "lat": 46.56666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1992/07/26"
+      }
+    ]
+  },
+  {
+    "name": "Russell, James",
+    "death": "1993/12/10",
+    "chartData": {
+      "date": "1960/04/06",
+      "time": "23:35",
+      "tz_hr": -6,
+      "lon": -87.86666666666666,
+      "lat": 42.96666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1993/12/10"
+      }
+    ]
+  },
+  {
+    "name": "Willman, Tony",
+    "death": "1941/10/12",
+    "chartData": {
+      "date": "1907/02/20",
+      "time": "08:00",
+      "tz_hr": -6,
+      "lon": -87.9,
+      "lat": 43.03333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1941/10/12"
+      }
+    ]
+  },
+  {
+    "name": "Andrews, Theresa",
+    "death": "2000/09/27",
+    "chartData": {
+      "date": "1977/04/15",
+      "time": "11:24",
+      "tz_hr": -5,
+      "lon": -81.25,
+      "lat": 41.15
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2000/09/27"
+      }
+    ]
+  },
+  {
+    "name": "Booker, Betty Jo",
+    "death": "1946/04/14",
+    "chartData": {
+      "date": "1930/06/05",
+      "time": "15:00",
+      "tz_hr": -6,
+      "lon": -94.05,
+      "lat": 33.43333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1946/04/14"
+      }
+    ]
+  },
+  {
+    "name": "von Cramm, Gottfried",
+    "death": "1976/11/08",
+    "chartData": {
+      "date": "1909/07/07",
+      "time": "17:45",
+      "tz_hr": 1,
+      "lon": 10.183333333333334,
+      "lat": 52.1
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1976/11/08"
+      }
+    ]
+  },
+  {
+    "name": "Graziati, Aldo",
+    "death": "1953/06/15",
+    "chartData": {
+      "date": "1905/01/01",
+      "time": "05:00",
+      "tz_hr": 1,
+      "lon": 12.1,
+      "lat": 45.56666666666667
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1953/06/15"
+      }
+    ]
+  },
+  {
+    "name": "Silkwood, Karen",
+    "death": "1974/11/13",
+    "chartData": {
+      "date": "1946/02/19",
+      "time": "21:50",
+      "tz_hr": -6,
+      "lon": -94.73333333333333,
+      "lat": 32.5
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1974/11/13"
+      }
+    ]
+  },
+  {
+    "name": "Senna, Ayrton",
+    "death": "1994/05/01",
+    "chartData": {
+      "date": "1960/03/21",
+      "time": "02:35",
+      "tz_hr": -3,
+      "lon": -46.61666666666667,
+      "lat": -23.55
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1994/05/01"
+      }
+    ]
+  },
+  {
+    "name": "Camus, Albert",
+    "death": "1960/01/04",
+    "chartData": {
+      "date": "1913/11/07",
+      "time": "02:00",
+      "tz_hr": 0,
+      "lon": 7.816666666666666,
+      "lat": 35.666666666666664
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1960/01/04"
+      }
+    ]
+  },
+  {
+    "name": "Pisier, Marie-France",
+    "death": "2011/04/24",
+    "chartData": {
+      "date": "1944/05/10",
+      "time": "15:25",
+      "tz_hr": 8,
+      "lon": 108.41666666666667,
+      "lat": 11.933333333333334
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "2011/04/24"
+      }
+    ]
+  },
+  {
+    "name": "Bakley, Bonny Lee",
+    "death": "2001/05/04",
+    "chartData": {
+      "date": "1956/06/07",
+      "time": "22:40",
+      "tz_hr": -4,
+      "lon": -74.48333333333333,
+      "lat": 40.8
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "2001/05/04"
+      }
+    ]
+  },
+  {
+    "name": "Marchal, Ghislaine",
+    "death": "1991/06/24",
+    "chartData": {
+      "date": "1926/02/18",
+      "time": "11:00",
+      "tz_hr": 0,
+      "lon": 2.1333333333333333,
+      "lat": 48.8
+    },
+    "events": [
+      {
+        "category": "Death by Homicide",
+        "date": "1991/06/24"
+      }
+    ]
+  },
+  {
+    "name": "Marchi, Robert",
+    "death": "1946/07/17",
+    "chartData": {
+      "date": "1919/07/26",
+      "time": "14:00",
+      "tz_hr": 1,
+      "lon": 4.85,
+      "lat": 46.78333333333333
+    },
+    "events": [
+      {
+        "category": "Death by Accident",
+        "date": "1946/07/17"
+      }
+    ]
+  }
+]

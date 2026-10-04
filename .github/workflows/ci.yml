@@ -1,0 +1,30 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # cupy-cuda12x is deliberately not installed on CI (no GPU):
+      # the array backend falls back to numpy with a warning, and all
+      # tests run on the CPU path.
+      - name: Install dependencies
+        run: pip install numpy tqdm matplotlib types-tqdm ruff mypy pytest
+
+      - name: Lint (ruff)
+        run: ruff check .
+
+      - name: Type check (mypy)
+        run: mypy .
+
+      - name: Tests (pytest)
+        run: pytest -q
